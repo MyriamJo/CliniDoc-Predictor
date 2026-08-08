@@ -1,0 +1,28 @@
+Title of Procedure:
+Long-Term Video Electroencephalogram (EEG) Monitoring for Evaluation of Paroxysmal Events
+
+Indication for Procedure:
+
+A 50-year-old male presented with recurrent episodes of altered consciousness and stereotyped movements suggestive of epileptic seizures. However, routine EEG recordings failed to capture any abnormalities. Long-term video EEG monitoring was recommended to capture and characterize these paroxysmal events and aid in the diagnosis of epilepsy.
+
+Preprocedure Diagnosis:
+
+Suspected epilepsy with atypical seizures.
+
+Postprocedure Diagnosis:
+
+Suspected epilepsy with atypical seizures.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system, along with simultaneous video recording. The setup allowed for continuous monitoring of both clinical events and EEG activity over several days to weeks.
+
+During the monitoring period, the patient's activities and behaviors were captured on video alongside EEG recordings. The patient was encouraged to engage in activities that typically trigger the paroxysmal events, such as sleep deprivation or exposure to specific stimuli.
+
+Impression:
+
+Long-term video EEG monitoring captured multiple paroxysmal events characterized by altered consciousness and stereotyped movements consistent with epileptic seizures. EEG findings demonstrated focal epileptiform discharges originating from the temporal lobe during these events.
+
+Postoperative Care:
+
+The patient's video EEG recordings were reviewed by a multidisciplinary team, including epileptologists and neurophysiologists, to characterize the seizures and guide treatment decisions. Further diagnostic evaluation, including neuroimaging studies, may be recommended based on the findings. Treatment options, including antiepileptic medications or surgical evaluation, were discussed during follow-up appointments.

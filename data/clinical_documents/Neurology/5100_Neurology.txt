@@ -1,0 +1,26 @@
+Title of Procedure:
+Lumbar Puncture for Evaluation of Intracranial Pressure
+
+Indication for Procedure:
+
+A 40-year-old female presented with chronic headaches, visual disturbances, and papilledema on fundoscopic examination. Clinical suspicion for elevated intracranial pressure prompted the recommendation for a lumbar puncture to measure cerebrospinal fluid (CSF) opening pressure and aid in the diagnosis of conditions such as idiopathic intracranial hypertension (IIH) or cerebral edema.
+
+Preprocedure Diagnosis:
+
+Suspected elevated intracranial pressure.
+
+Postprocedure Diagnosis:
+
+Elevated intracranial pressure with papilledema.
+
+Procedure:
+
+The patient was positioned in the lateral decubitus position, and the lower back was prepped and draped in a sterile manner. After local anesthesia, a spinal needle was inserted into the subarachnoid space, and CSF pressure was measured using a manometer. CSF was collected and sent for analysis if necessary.
+
+Impression:
+
+Lumbar puncture revealed an elevated opening pressure of 30 cm H2O, consistent with increased intracranial pressure. The presence of papilledema on fundoscopic examination further supported the diagnosis of elevated intracranial pressure, suggesting underlying pathology such as idiopathic intracranial hypertension (IIH) or cerebral edema.
+
+Postoperative Care:
+
+The patient was referred to a neurology specialist for further evaluation and management of elevated intracranial pressure. Treatment options, including diuretics, weight loss strategies, and cerebrospinal fluid (CSF) drainage procedures, were discussed based on the lumbar puncture findings. Close monitoring of visual symptoms and neurological status was instituted, with plans for regular follow-up appointments to assess treatment response.

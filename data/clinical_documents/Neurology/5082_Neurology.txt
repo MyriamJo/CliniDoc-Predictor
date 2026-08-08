@@ -1,0 +1,28 @@
+Title of Procedure: 
+Neuromonitoring During Deep Brain Stimulation (DBS) Surgery for Parkinson's Disease
+
+Indication for Procedure:
+
+A 60-year-old male diagnosed with advanced Parkinson's disease presented with debilitating motor fluctuations despite optimal medical therapy. Deep brain stimulation (DBS) surgery was recommended to alleviate symptoms and improve quality of life. Intraoperative neuromonitoring was planned to ensure accurate placement of the DBS electrodes and minimize the risk of adverse effects.
+
+Preprocedure Diagnosis:
+
+Advanced Parkinson's disease with motor fluctuations.
+
+Postprocedure Diagnosis:
+
+Advanced Parkinson's disease with DBS implantation.
+
+Procedure:
+
+The patient underwent DBS surgery with frame-based stereotactic guidance under general anesthesia. Prior to electrode insertion, intraoperative neuromonitoring was initiated to monitor electrical activity in the target brain regions. Microelectrode recordings and macrostimulation were performed to confirm the location of the subthalamic nucleus or globus pallidus interna.
+
+Continuous intraoperative monitoring of motor and non-motor symptoms was conducted to assess the therapeutic effect of stimulation and detect any adverse effects, such as speech or cognitive disturbances. Adjustments to electrode placement and stimulation parameters were made based on real-time feedback from the neuromonitoring data.
+
+Impression:
+
+Intraoperative neuromonitoring facilitated accurate placement of the DBS electrodes within the target brain nuclei, optimizing therapeutic outcomes and minimizing adverse effects. Real-time assessment of motor and non-motor symptoms allowed for fine-tuning of stimulation parameters to achieve optimal symptom control.
+
+Postoperative Care:
+
+The patient was monitored postoperatively for any immediate complications, such as intracranial hemorrhage or infection. Programming of the DBS device was initiated after an appropriate recovery period, with adjustments made based on clinical response and neuromonitoring data. Long-term follow-up was scheduled to monitor symptom control and adjust stimulation settings as needed.

@@ -1,0 +1,42 @@
+Chief Complaint:
+The patient presents with recurrent headaches and visual disturbances.
+
+History of Present Illness:
+A 45-year-old female reports experiencing intermittent headaches for the past six months. She describes the headaches as throbbing in nature, predominantly located in the frontal region, and often accompanied by photophobia and phonophobia. She reports experiencing visual disturbances, including blurry vision and seeing flashing lights or zigzag lines, usually preceding the onset of headaches. The headaches typically last for several hours to a day and are partially relieved by over-the-counter pain medications. She denies any history of head trauma or neurological conditions.
+
+Past Medical History:
+No significant past medical history reported. No history of migraines or chronic headaches.
+
+Family History:
+Negative for neurological disorders.
+
+Social History:
+The patient leads a sedentary lifestyle, working in an office environment. She denies smoking or alcohol consumption.
+
+Review of Systems:
+Negative for fever, rash, or other sensory disturbances. No gastrointestinal or musculoskeletal symptoms reported.
+
+Physical Examination:
+Vital Signs: Within normal limits.
+Neurological: Cranial nerves intact. No focal neurological deficits appreciated. Fundoscopic examination reveals bilateral papilledema.
+
+Assessment:
+
+Chronic Migraine: Suspected diagnosis based on the patient's history of recurrent headaches with associated visual disturbances.
+Papilledema: Concerning finding suggestive of increased intracranial pressure, possibly secondary to a space-occupying lesion.
+Plan:
+
+Neuroimaging:
+Urgent referral for magnetic resonance imaging (MRI) of the brain with contrast to evaluate for any intracranial pathology.
+
+Neurology Consultation: 
+Recommend evaluation by a neurologist for further assessment and management of chronic migraine and papilledema.
+
+Symptomatic Treatment:
+Prescribe migraine-specific medications for acute headache management and to prevent future episodes.
+
+Ophthalmology Referral: 
+Arrange for a comprehensive eye examination to monitor papilledema and assess for any optic nerve damage.
+
+Follow-up: 
+Schedule a follow-up appointment in one week to review imaging results and discuss further management options.

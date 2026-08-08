@@ -1,0 +1,39 @@
+Chief Complaint:
+The patient presents with chronic cough and dyspnea on exertion.
+
+History of Present Illness:
+An 80-year-old female reports experiencing a persistent dry cough for the past year. She describes the cough as non-productive, occurring throughout the day and exacerbated by environmental triggers such as dust or strong odors. Additionally, she complains of increasing dyspnea with exertion, limiting her ability to perform activities of daily living. She denies any history of wheezing, chest pain, or hemoptysis. Over-the-counter cough suppressants have provided minimal relief.
+
+Past Medical History:
+History of hypertension managed with antihypertensive medications. No history of chronic respiratory conditions or smoking.
+
+Family History:
+Negative for respiratory disorders.
+
+Review of Systems:
+Negative for fever, rash, or other constitutional symptoms. No gastrointestinal or genitourinary symptoms reported.
+
+Physical Examination:
+Vital Signs: Within normal limits.
+Respiratory: Auscultation reveals diminished breath sounds bilaterally, with no crackles or wheezes appreciated. No cyanosis or clubbing noted.
+
+Assessment:
+
+Chronic Cough: Suspected diagnosis based on the patient's history of persistent non-productive cough lasting over one year.
+Differential Diagnosis: Consideration given to conditions such as chronic bronchitis, asthma, or interstitial lung disease.
+Plan:
+
+Pulmonary Function Testing: 
+Order spirometry and lung volumes to assess for obstructive or restrictive patterns.
+
+Chest Imaging: 
+Recommend obtaining a chest X-ray to evaluate for underlying pulmonary pathology.
+
+Medication Review: 
+Assess current medications for potential respiratory side effects or drug-induced cough.
+
+Smoking Cessation Counseling: 
+Encourage the patient to quit smoking if applicable, to improve respiratory symptoms and overall lung health.
+
+Symptomatic Treatment: 
+Prescribe a trial of inhaled bronchodilators or corticosteroids for symptom relief, pending further diagnostic evaluation.

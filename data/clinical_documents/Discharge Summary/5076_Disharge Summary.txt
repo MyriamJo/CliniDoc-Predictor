@@ -1,0 +1,25 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Jennifer Lee, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Robert Evans, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute gastritis.
+Gastrointestinal bleeding.
+PROCEDURES DURING HOSPITALIZATION:
+Esophagogastroduodenoscopy (EGD) with hemostatic intervention.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Emma Thompson, a 45-year-old female, presented with complaints of abdominal pain and black tarry stools. Laboratory investigations and EGD revealed acute gastritis with a bleeding gastric ulcer.
+
+HOSPITAL COURSE:
+Ms. Thompson received hemostatic therapy during EGD, and her gastrointestinal bleeding resolved. She was discharged home with proton pump inhibitors and dietary modifications.
+

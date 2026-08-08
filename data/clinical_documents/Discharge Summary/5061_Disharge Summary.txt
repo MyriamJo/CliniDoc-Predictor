@@ -1,0 +1,29 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to a skilled nursing facility for continued care.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Acute exacerbation of chronic obstructive pulmonary disease (COPD).
+AXIS II: Deferred.
+AXIS III: Hypertension.
+AXIS IV: Moderate.
+AXIS V: 50.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's respiratory status improved with bronchodilators and oxygen therapy during hospitalization but still required supplemental oxygen.
+
+DISCHARGE FOLLOW-UP:
+Scheduled follow-up appointments with pulmonology and respiratory therapy.
+
+DISCHARGE MEDICATIONS:
+
+Albuterol inhaler as needed.
+Budesonide/formoterol inhaler 160/4.5 mcg puffs q.i.d.
+Oxygen therapy at 2L/min via nasal cannula.
+RESPIRATORY STATUS AT DISCHARGE:
+
+Oxygen saturation: 92% on 2L/min nasal cannula.
+Respiratory rate: 20 breaths per minute.
+Breath sounds: Diminished in bilateral lower lobes with expiratory wheezes.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 65-year-old male with a history of COPD, presented with worsening dyspnea and productive cough. Treatment included bronchodilators, corticosteroids, and supplemental oxygen, resulting in symptomatic improvement but ongoing oxygen requirement.
+

@@ -1,0 +1,22 @@
+Title of Procedure:
+Electroencephalogram (EEG) for Evaluation of Suspected Epilepsy
+
+Indication for Procedure:
+
+A 35-year-old female presented with recurrent episodes of loss of consciousness, involuntary muscle jerking, and postictal confusion. Clinical evaluation raised suspicion for epilepsy, necessitating an electroencephalogram (EEG) to assess for abnormal electrical activity in the brain and aid in the diagnosis of epilepsy.
+
+Preprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Postprocedure Diagnosis:
+
+Epilepsy.
+
+Procedure:
+
+The patient was comfortably positioned in a reclining chair, and electrodes were placed on the scalp according to the 10-20 international system. The patient was instructed to relax with eyes closed while the EEG recorded brain activity over a 30-minute period. Hyperventilation and photic stimulation were employed as activation procedures to elicit potential epileptiform discharges. The recorded EEG data were then analyzed for abnormal electrical patterns indicative of seizure activity.
+
+Impression:
+
+EEG revealed frequent interictal epileptiform discharges, including spike-and-wave complexes and sharp waves, predominantly in the left temporal region. These findings are consistent with a diagnosis of epilepsy. The EEG findings support the clinical suspicion of epilepsy, aligning with the patient's reported seizure episodes and neurological symptoms.

@@ -1,0 +1,31 @@
+Chief Complaint:
+The patient presents with a history of persistent abdominal pain and discomfort.
+
+History of Present Illness:
+A 45-year-old woman reports experiencing intermittent abdominal pain for the past three months. She describes the pain as dull and crampy, predominantly located in the lower abdomen, with occasional episodes of bloating and flatulence. She denies any changes in bowel habits, nausea, vomiting, or unintended weight loss. The pain tends to worsen after meals and is partially relieved by over-the-counter antacids. She reports no history of similar symptoms in the past.
+
+Past Medical History:
+The patient has a history of irritable bowel syndrome (IBS) diagnosed five years ago, managed with dietary modifications and occasional antispasmodic medications.
+
+Family History:
+Negative for gastrointestinal disorders.
+
+Social History:
+The patient denies smoking, alcohol consumption, or illicit drug use. She maintains a balanced diet and regular exercise routine.
+
+Review of Systems:
+Negative for fever, rash, joint pain, or respiratory symptoms. No urinary or gynecological complaints.
+
+Physical Examination:
+Vital Signs: Within normal limits.
+Abdomen: Soft, non-tender, with normoactive bowel sounds. No palpable masses or organomegaly detected.
+
+Assessment:
+
+Chronic Abdominal Pain: Likely related to underlying irritable bowel syndrome (IBS).
+Functional Gastrointestinal Disorder: Consistent with the patient's history of IBS.
+Plan:
+
+Symptomatic Treatment: Recommend continuation of dietary modifications and stress management techniques.
+Pharmacotherapy: Prescribe an antispasmodic medication for symptomatic relief during exacerbations.
+Follow-up: Schedule a follow-up appointment in six weeks to assess response to treatment and further evaluate if necessary.

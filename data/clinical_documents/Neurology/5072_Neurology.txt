@@ -1,0 +1,28 @@
+Title of Procedure:
+Ambulatory Electroencephalogram (EEG) Monitoring for Evaluation of Nocturnal Seizures
+
+Indication for Procedure:
+
+A 42-year-old male presented with a history of recurrent episodes of nocturnal confusion and unexplained injuries suggestive of nocturnal seizures. Clinical examination revealed no focal neurological deficits during waking hours. Ambulatory electroencephalogram (EEG) monitoring was recommended to capture any abnormal brain activity during sleep and correlate it with clinical events.
+
+Preprocedure Diagnosis:
+
+Suspected nocturnal seizures.
+
+Postprocedure Diagnosis:
+
+Suspected nocturnal seizures.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system for electrode positioning. Additionally, a portable EEG recording device was attached to the patient's head or carried in a pouch. The patient was instructed to wear the equipment continuously for 24 to 48 hours, including during sleep.
+
+Continuous EEG monitoring was performed, capturing brain activity during both wakefulness and sleep cycles. The patient was provided with a sleep diary to record any nocturnal events, such as episodes of confusion, abnormal movements, or injuries.
+
+Impression:
+
+Ambulatory EEG monitoring revealed intermittent spikes and sharp wave discharges during stage NREM sleep, suggestive of nocturnal epilepsy. Correlation with clinical events documented in the sleep diary supported the diagnosis of nocturnal seizures.
+
+Postoperative Care:
+
+The patient returned the ambulatory EEG equipment to the clinic for data analysis. Results were reviewed by a neurologist specializing in epilepsy, who interpreted the findings and discussed the implications with the patient. Further diagnostic evaluation and treatment planning were discussed during follow-up appointments.

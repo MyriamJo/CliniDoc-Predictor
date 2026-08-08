@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Michael Adams, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Sarah Carter, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute appendicitis.
+Perforated appendix.
+PROCEDURES DURING HOSPITALIZATION:
+Appendectomy.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. John Doe, a 35-year-old male, presented with severe abdominal pain localized to the right lower quadrant. Physical examination and imaging confirmed the diagnosis of acute appendicitis with evidence of perforation.
+
+HOSPITAL COURSE:
+Mr. Doe underwent emergent appendectomy with intraoperative findings of a perforated appendix. He received postoperative antibiotics and showed improvement in symptoms. Discharged home with instructions for wound care and follow-up.

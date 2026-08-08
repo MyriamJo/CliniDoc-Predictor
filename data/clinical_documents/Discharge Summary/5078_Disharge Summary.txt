@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Emily Parker, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Michael Evans, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute myocardial infarction.
+Congestive heart failure.
+PROCEDURES DURING HOSPITALIZATION:
+Coronary angiography with stent placement.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. John Smith, a 60-year-old male, presented with chest pain and dyspnea. EKG revealed ST-segment elevation, consistent with acute myocardial infarction. He underwent emergent coronary angiography, which showed significant coronary artery disease requiring stent placement. He was also managed for exacerbation of congestive heart failure.
+
+HOSPITAL COURSE:
+Mr. Smith's condition stabilized post-procedure, with resolution of chest pain. He was discharged home with appropriate medications and advised on lifestyle modifications.

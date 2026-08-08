@@ -1,0 +1,28 @@
+Title of Procedure: 
+Video Electroencephalogram (EEG) Monitoring for Evaluation of Seizure Semiology
+
+Indication for Procedure:
+
+A 28-year-old female presented with episodes of altered consciousness and behavioral changes suggestive of seizures. Clinical examination revealed no focal neurological deficits, but the exact nature of the episodes was unclear. Video electroencephalogram (EEG) monitoring was recommended to capture both clinical events and associated EEG changes to aid in seizure classification.
+
+Preprocedure Diagnosis:
+
+Suspected epileptic seizures.
+
+Postprocedure Diagnosis:
+
+Suspected epileptic seizures.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system, along with simultaneous video recording. The setup allowed for continuous monitoring of both clinical events and EEG activity, providing valuable information on the semiology and localization of seizures.
+
+During the monitoring period, the patient's activities and behaviors were captured on video alongside EEG recordings. Activation procedures, such as sleep deprivation or photic stimulation, may have been employed to provoke seizures and capture them on video.
+
+Impression:
+
+Video EEG monitoring captured several episodes of altered consciousness accompanied by automatisms and bilateral tonic-clonic movements, consistent with complex partial seizures evolving into generalized tonic-clonic seizures. EEG findings demonstrated focal epileptiform discharges originating from the right temporal lobe.
+
+Postoperative Care:
+
+The patient's video EEG recordings were reviewed by a multidisciplinary team, including epileptologists and neurophysiologists, to characterize the seizures and guide treatment decisions. Counseling was provided regarding seizure safety measures and lifestyle modifications. Follow-up appointments were scheduled to discuss treatment options, including antiepileptic medications or surgical evaluation.

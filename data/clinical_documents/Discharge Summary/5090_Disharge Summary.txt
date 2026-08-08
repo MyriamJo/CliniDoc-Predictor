@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe sepsis, urinary tract infection.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 06/18/2024 with severe sepsis secondary to urinary tract infection. Treatment included aggressive antibiotic therapy, intravenous fluid resuscitation, and hemodynamic support. Despite initial response to treatment, the patient developed complications of sepsis, including multiorgan dysfunction, necessitating transfer to the intensive care unit for advanced critical care management.
+
+RECOMMENDATIONS:
+Discharged from infectious disease services today, as the patient requires continued intensive care for management of severe sepsis.

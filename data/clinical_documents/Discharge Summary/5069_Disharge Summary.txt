@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Sarah Lee, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Michael Clark, M.D.
+
+ADMITTING DIAGNOSES:
+
+Traumatic brain injury.
+Subdural hematoma.
+PROCEDURES DURING HOSPITALIZATION:
+Craniotomy for hematoma evacuation.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Rachel Taylor, a 42-year-old female, was admitted following a motor vehicle accident with head trauma. CT scan revealed a large subdural hematoma requiring emergent craniotomy for evacuation.
+
+HOSPITAL COURSE:
+Ms. Taylor underwent successful surgery and showed gradual neurological improvement during her hospital stay. She was discharged with rehabilitation recommendations.

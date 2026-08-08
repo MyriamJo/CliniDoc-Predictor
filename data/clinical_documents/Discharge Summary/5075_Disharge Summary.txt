@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. David Brown, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Jessica Miller, M.D.
+
+ADMITTING DIAGNOSES:
+
+Community-acquired pneumonia.
+Chronic obstructive pulmonary disease exacerbation.
+PROCEDURES DURING HOSPITALIZATION:
+None.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. William Johnson, a 70-year-old male with a history of COPD, presented with fever, productive cough, and dyspnea. Chest X-ray and sputum cultures confirmed the diagnosis of community-acquired pneumonia superimposed on COPD exacerbation.
+
+HOSPITAL COURSE:
+Mr. Johnson responded well to antibiotic therapy and bronchodilators. His respiratory symptoms improved, and he was discharged home with a tapering course of oral antibiotics and inhalers.

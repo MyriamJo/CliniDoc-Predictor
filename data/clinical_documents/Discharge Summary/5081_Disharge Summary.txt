@@ -1,0 +1,25 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Jennifer Brown, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Robert Johnson, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute pancreatitis.
+Cholelithiasis.
+PROCEDURES DURING HOSPITALIZATION:
+Endoscopic retrograde cholangiopancreatography (ERCP) with sphincterotomy and stone extraction.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Emma Thompson, a 45-year-old female, presented with severe abdominal pain, nausea, and vomiting. Imaging revealed cholelithiasis with associated acute pancreatitis. She underwent ERCP with stone extraction.
+
+HOSPITAL COURSE:
+Ms. Thompson's symptoms improved post-procedure, and she was discharged home with dietary recommendations and follow-up with gastroenterology.
+

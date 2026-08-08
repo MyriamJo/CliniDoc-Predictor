@@ -1,0 +1,26 @@
+Title of Procedure:
+Lumbar Puncture for Evaluation of Guillain-Barré Syndrome
+
+Indication for Procedure:
+
+A 35-year-old female presented with ascending weakness, bilateral lower limb numbness, and areflexia. Clinical examination revealed signs suggestive of Guillain-Barré syndrome (GBS), an acute inflammatory demyelinating polyneuropathy. Lumbar puncture was recommended to assess cerebrospinal fluid (CSF) protein levels and aid in the diagnosis of GBS.
+
+Preprocedure Diagnosis:
+
+Suspected Guillain-Barré syndrome (GBS).
+
+Postprocedure Diagnosis:
+
+Guillain-Barré syndrome (GBS).
+
+Procedure:
+
+The patient was positioned in a seated or lateral decubitus position, and the lumbar region was prepped and draped in a sterile manner. After local anesthesia, a spinal needle was inserted into the subarachnoid space, and CSF was collected and sent for analysis. CSF protein levels were measured to evaluate for elevated protein content, a characteristic finding in GBS.
+
+Impression:
+
+Lumbar puncture revealed elevated protein levels in the cerebrospinal fluid, indicative of albuminocytological dissociation commonly seen in Guillain-Barré syndrome. The findings supported the diagnosis of GBS, corroborating clinical suspicion based on the patient's presentation of ascending weakness and areflexia.
+
+Postoperative Care:
+
+The patient was admitted to the neurology service for close monitoring and supportive care. Treatment with intravenous immunoglobulin (IVIG) or plasmapheresis was initiated to attenuate the immune response and hasten recovery. Close monitoring of respiratory function and neurological status was instituted, with plans for rehabilitation therapy to optimize recovery and prevent complications.

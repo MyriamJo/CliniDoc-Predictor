@@ -1,0 +1,35 @@
+HISTORY OF PRESENT ILLNESS:
+A 23-year-old male presents with a one-week history of nasal congestion, facial pressure, and frontal headache. He reports thick, yellowish nasal discharge and occasional cough productive of greenish sputum. He denies any fever, dental pain, or changes in sense of smell. Symptoms have worsened over the past few days despite over-the-counter decongestants and nasal saline rinses.
+
+PAST MEDICAL HISTORY:
+Nonsignificant.
+
+PAST SURGICAL HISTORY:
+Nonsignificant.
+
+FAMILY HISTORY:
+Negative for any significant medical conditions.
+
+SOCIAL HISTORY:
+Works as a software engineer, non-smoker, occasional alcohol use.
+
+PHYSICAL EXAMINATION:
+Vital Signs: Temperature 99.2°F, other vital signs within normal limits.
+Head and Neck: Nasal congestion, erythematous nasal mucosa, tenderness over frontal sinuses.
+Oropharynx: Mild pharyngeal erythema, no tonsillar exudates.
+Lungs: Clear to auscultation bilaterally.
+Ears: Tympanic membranes intact, no effusion.
+
+ASSESSMENT:
+
+Acute Sinusitis: Suspected acute bacterial sinusitis based on the patient's clinical presentation of nasal congestion, facial pain, and purulent nasal discharge.
+PLAN:
+
+Antibiotic Therapy:
+Prescribe a 10-day course of amoxicillin-clavulanate to treat the suspected bacterial infection.
+
+Symptomatic Treatment: 
+Recommend nasal saline irrigation, steam inhalation, and over-the-counter analgesics for symptom relief.
+
+Follow-up: 
+Schedule a follow-up appointment in one week to assess response to treatment and consider further management options if necessary.

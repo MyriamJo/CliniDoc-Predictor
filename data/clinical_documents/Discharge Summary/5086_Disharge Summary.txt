@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute stroke, left-sided hemiparesis.
+
+DISCHARGE SUMMARY:
+The patient presented on 11/05/2024 with acute onset left-sided weakness consistent with a stroke. Following initial stabilization, the patient received intensive stroke rehabilitation, focusing on motor retraining, balance and coordination exercises, activities of daily living training, and caregiver education. Despite progress, the patient's functional independence remained limited, necessitating transfer to a specialized stroke rehabilitation facility.
+
+RECOMMENDATIONS:
+Discharged from stroke rehabilitation services today, as the patient requires continued care at a specialized stroke rehabilitation facility.

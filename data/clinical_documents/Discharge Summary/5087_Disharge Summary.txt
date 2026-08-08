@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe diabetic ketoacidosis, hyperglycemia.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 09/30/2024 with severe diabetic ketoacidosis and uncontrolled hyperglycemia. Treatment included aggressive insulin therapy, fluid resuscitation, electrolyte correction, and nutritional support. Despite initial improvement in metabolic parameters, the patient's glycemic control remained suboptimal, necessitating transfer to the intensive care unit for close monitoring and management.
+
+RECOMMENDATIONS:
+Discharged from diabetic management services today, as the patient requires continued intensive care for glycemic control.

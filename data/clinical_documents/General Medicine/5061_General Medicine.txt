@@ -1,0 +1,37 @@
+Subjective:
+
+The patient, a 55-year-old man, presents with complaints of chest discomfort and shortness of breath. He describes the discomfort as a squeezing sensation in the center of his chest, which started suddenly about 30 minutes ago while he was at rest. He also reports feeling lightheaded and nauseous. The patient denies any previous episodes of similar chest pain. There is no history of recent trauma or exertion preceding the symptoms.
+
+Past Medical History:
+
+The patient has a history of hypertension and hyperlipidemia, both of which are currently managed with medication.
+
+Family History:
+
+Positive for coronary artery disease, with his father experiencing a heart attack at the age of 60.
+
+Objective:
+
+General: The patient appears pale and diaphoretic. He is in moderate distress.
+
+Cardiovascular Examination: Heart rate elevated at 110 bpm, blood pressure elevated at 160/100 mmHg. Auscultation reveals regular rhythm with no murmurs or gallops. Peripheral pulses are weak.
+
+Respiratory Examination: Respirations are shallow and rapid. Lung fields clear to auscultation bilaterally.
+
+Abdominal Examination: Soft and nontender, with no organomegaly appreciated.
+
+Extremities: No signs of peripheral edema.
+
+Assessment:
+
+The patient is suspected to be experiencing an acute coronary syndrome, most likely a myocardial infarction, given the sudden onset of chest discomfort, associated symptoms, and cardiovascular risk factors.
+
+Plan:
+
+Immediate management includes:
+- Administration of aspirin, nitroglycerin, and oxygen therapy.
+- Activation of the cardiac catheterization lab for urgent coronary angiography.
+- Continuous cardiac monitoring and serial electrocardiograms.
+- Intravenous access established for potential medication administration.
+
+Further management will depend on the results of coronary angiography and cardiac enzyme levels. Referral to cardiology for ongoing management and risk factor modification will be arranged post-stabilization.

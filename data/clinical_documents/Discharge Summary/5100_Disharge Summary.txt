@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute kidney injury, electrolyte imbalance.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 09/15/2024 with acute kidney injury and electrolyte imbalance. Treatment included intravenous fluid resuscitation, diuretic therapy, and electrolyte replacement. Despite initial improvement in renal function, the patient's electrolyte abnormalities persisted, necessitating transfer to the nephrology ward for further evaluation and management.
+
+RECOMMENDATIONS:
+Discharged from nephrology services today, as the patient requires continued evaluation and management on the nephrology ward.

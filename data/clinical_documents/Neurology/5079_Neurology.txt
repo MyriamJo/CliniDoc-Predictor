@@ -1,0 +1,28 @@
+Title of Procedure: 
+Sleep-Deprived Electroencephalogram (EEG) Monitoring for Evaluation of Atypical Spells
+
+Indication for Procedure:
+
+A 35-year-old female presented with episodes of altered consciousness and unusual sensations suggestive of epileptic seizures. However, routine EEG recordings during wakefulness failed to capture any abnormalities. Sleep-deprived EEG monitoring was recommended to provoke and capture epileptiform discharges during sleep, aiding in the diagnosis of epilepsy.
+
+Preprocedure Diagnosis:
+
+Suspected epilepsy with atypical spells.
+
+Postprocedure Diagnosis:
+
+Suspected epilepsy with atypical spells.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system. Sleep-deprived EEG monitoring was initiated following a period of sleep deprivation, typically 24 to 48 hours, to increase the likelihood of capturing epileptiform discharges during sleep.
+
+Continuous EEG monitoring was performed throughout the sleep period, capturing brain activity during various sleep stages. The patient was monitored for any clinical events or unusual sensations reported during the recording.
+
+Impression:
+
+Sleep-deprived EEG monitoring revealed intermittent spikes and sharp wave discharges during stage NREM sleep, suggestive of epileptic activity. Correlation with reported clinical events supported the diagnosis of epilepsy with atypical spells.
+
+Postoperative Care:
+
+The patient's sleep-deprived EEG recordings were reviewed by a neurologist specializing in epilepsy, who interpreted the findings and discussed the implications with the patient. Further diagnostic evaluation, including imaging studies and neuropsychological testing, may be recommended based on the findings. Treatment options, including antiepileptic medications or lifestyle modifications, were discussed during follow-up appointments.

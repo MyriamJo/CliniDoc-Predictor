@@ -1,0 +1,19 @@
+EXAM:
+Mammogram with Tomosynthesis.
+
+REASON FOR EXAM:
+
+Routine screening mammography.
+
+TECHNIQUE:
+
+Full-field digital mammography with tomosynthesis of both breasts.
+
+FINDINGS:
+
+No suspicious masses, asymmetries, or architectural distortions identified. No microcalcifications appreciated. Breast density is classified as scattered fibroglandular tissue. No axillary lymphadenopathy.
+
+IMPRESSION:
+
+Negative mammogram with tomosynthesis. No evidence of malignancy or significant abnormalities detected. Recommend routine follow-up as per screening guidelines.
+

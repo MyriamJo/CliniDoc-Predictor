@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. David Roberts, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Jessica Adams, M.D.
+
+ADMITTING DIAGNOSES:
+
+Community-acquired pneumonia.
+Chronic obstructive pulmonary disease exacerbation.
+PROCEDURES DURING HOSPITALIZATION:
+None.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Robert Johnson, a 70-year-old male with a history of COPD, presented with fever, cough, and dyspnea. He was diagnosed with community-acquired pneumonia and managed with antibiotics and bronchodilators.
+
+HOSPITAL COURSE:
+Mr. Johnson's respiratory symptoms improved with treatment, and he was discharged home with a tapering course of oral antibiotics.

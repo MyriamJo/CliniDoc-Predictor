@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute respiratory distress syndrome, septic shock.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 11/20/2024 with acute respiratory distress syndrome secondary to septic shock. Treatment included mechanical ventilation, vasopressor support, and antibiotic therapy. Despite aggressive interventions, the patient's respiratory and hemodynamic status remained compromised, necessitating transfer to the intensive care unit for advanced critical care management.
+
+RECOMMENDATIONS:
+Discharged from pulmonary medicine services today, as the patient requires continued intensive care for management of acute respiratory distress syndrome and septic shock.

@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe traumatic brain injury, cervical spine fracture.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 07/15/2024 following a severe traumatic brain injury and cervical spine fracture sustained in a fall. Treatment included cervical spine immobilization, neurocritical care management, and initiation of rehabilitation therapy. Despite intensive efforts, the patient's neurological status remained unstable, necessitating transfer to a specialized neurocritical care unit for ongoing management.
+
+RECOMMENDATIONS:
+Discharged from rehabilitation services today, as the patient requires continued care in a specialized neurocritical care unit for comprehensive neurological monitoring and management.

@@ -1,0 +1,28 @@
+Title of Procedure:
+Intracranial Electroencephalography (EEG) Monitoring for Evaluation of Intractable Epilepsy
+
+Indication for Procedure:
+
+A 35-year-old male with a history of intractable epilepsy refractory to medical management was being considered for surgical intervention. Clinical examination and diagnostic testing localized the seizure focus to the right temporal lobe. Intracranial EEG monitoring was recommended to precisely localize the epileptogenic zone and guide surgical planning.
+
+Preprocedure Diagnosis:
+
+Intractable epilepsy with right temporal lobe focus.
+
+Postprocedure Diagnosis:
+
+Intractable epilepsy with right temporal lobe focus.
+
+Procedure:
+
+The patient underwent placement of intracranial electrodes directly onto the exposed brain surface overlying the right temporal lobe. Subdural strip and depth electrodes were strategically positioned to cover the suspected seizure focus and surrounding areas. Continuous EEG monitoring was initiated using digital recording equipment.
+
+Intracranial EEG monitoring provided high-resolution recordings of brain activity, enabling precise localization of epileptiform discharges and seizure onset zones. The patient was monitored in the epilepsy monitoring unit, with close observation for any clinical seizures or electrographic abnormalities.
+
+Impression:
+
+Intracranial EEG monitoring revealed frequent interictal epileptiform discharges originating from the right mesial temporal lobe, consistent with the suspected seizure focus. Cortical mapping identified eloquent areas to preserve during surgical resection, minimizing the risk of postoperative neurological deficits.
+
+Postoperative Care:
+
+The patient was closely monitored post-procedure for any immediate complications, such as intracranial hemorrhage or infection. Results from the intracranial EEG monitoring were reviewed by a multidisciplinary team, including epileptologists, neurosurgeons, and neurophysiologists, to guide surgical planning. Surgical resection of the epileptogenic zone was performed based on the findings, with subsequent monitoring to assess seizure control and neurological outcomes.

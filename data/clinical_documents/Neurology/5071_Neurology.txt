@@ -1,0 +1,28 @@
+Title of Procedure:
+Prolonged Video Electroencephalogram (EEG) Monitoring for Evaluation of Suspected Cortical Dysfunction
+
+Indication for Procedure:
+
+A 40-year-old male presented with episodes of altered consciousness, confusion, and memory lapses. Clinical examination revealed no focal neurological deficits, but the episodes were concerning for possible cortical dysfunction. Prolonged video EEG monitoring was recommended to capture and characterize any abnormal brain activity associated with the episodes.
+
+Preprocedure Diagnosis:
+
+Suspected cortical dysfunction.
+
+Postprocedure Diagnosis:
+
+Suspected cortical dysfunction.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system, along with simultaneous video recording. The setup allowed for continuous monitoring of both clinical events and EEG activity over an extended period, typically 24 to 72 hours.
+
+During the monitoring period, the patient's activities, behaviors, and any observed events were captured on video alongside EEG recordings. Activation procedures, such as sleep deprivation or photic stimulation, may have been employed to provoke events and capture them on video.
+
+Impression:
+
+Prolonged video EEG monitoring captured several episodes of altered consciousness and confusion, accompanied by diffuse slowing and epileptiform discharges on EEG. These findings suggest underlying cortical dysfunction, possibly related to an epileptic or non-epileptic etiology.
+
+Postoperative Care:
+
+The patient's video EEG recordings were reviewed by a neurologist specializing in epilepsy and cortical dysfunction to interpret the findings and guide further diagnostic evaluation and treatment. Additional neuroimaging or neuropsychological testing may have been recommended to further characterize the underlying pathology. Follow-up appointments were scheduled to discuss the results and implement appropriate management strategies.

@@ -1,0 +1,28 @@
+Title of Procedure: 
+Intraoperative Electroencephalogram (EEG) Monitoring for Epilepsy Surgery
+
+Indication for Procedure:
+
+A 35-year-old male with medically refractory epilepsy was scheduled for epilepsy surgery. Clinical examination and diagnostic testing localized the seizure focus to the left temporal lobe. Intraoperative electroencephalogram (EEG) monitoring was recommended to guide the surgical resection and ensure the complete removal of the epileptogenic zone.
+
+Preprocedure Diagnosis:
+
+Medically refractory epilepsy with left temporal lobe focus.
+
+Postprocedure Diagnosis:
+
+Medically refractory epilepsy with left temporal lobe focus.
+
+Procedure:
+
+The patient was positioned comfortably on the operating table under general anesthesia. Electrodes were placed directly onto the exposed brain surface overlying the left temporal lobe, allowing for continuous EEG monitoring during the surgical procedure.
+
+Intraoperative EEG monitoring was initiated prior to the initiation of surgical resection. Real-time EEG feedback was provided to the neurosurgeon, enabling the identification of epileptiform discharges and ensuring that the resection margins included the epileptogenic zone while preserving essential functional areas of the brain.
+
+Impression:
+
+Intraoperative EEG monitoring demonstrated frequent epileptiform discharges originating from the left temporal lobe. Surgical resection was guided by EEG findings, ensuring the complete removal of the epileptogenic zone while preserving essential functional areas. The procedure was successful in achieving seizure freedom postoperatively.
+
+Postoperative Care:
+
+The patient was monitored postoperatively in the neurosurgical intensive care unit for any immediate complications. Long-term follow-up was scheduled to assess seizure control and monitor for any potential neurological deficits resulting from the surgery. Adjunctive treatment options, including antiepileptic medications, were discussed to optimize seizure management.

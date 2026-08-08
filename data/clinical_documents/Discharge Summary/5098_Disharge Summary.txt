@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe head trauma, spinal cord injury.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 07/08/2024 following a traumatic accident resulting in severe head trauma and spinal cord injury. Treatment included neurosurgical intervention for decompression, spinal stabilization, and initiation of rehabilitation therapy. Despite intensive efforts, the patient's neurological status remained unstable, necessitating transfer to a specialized neurosurgical unit for ongoing management.
+
+RECOMMENDATIONS:
+Discharged from rehabilitation services today, as the patient requires continued care in a specialized neurosurgical unit for comprehensive neurological monitoring and management.

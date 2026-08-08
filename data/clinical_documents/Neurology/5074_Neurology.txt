@@ -1,0 +1,28 @@
+Title of Procedure:
+Sleep-Deprived Electroencephalogram (EEG) Monitoring for Evaluation of Epilepsy
+
+Indication for Procedure:
+
+A 28-year-old female presented with a history of recurrent seizures characterized by sudden loss of awareness and convulsive movements. Clinical examination revealed no focal neurological deficits. Sleep-deprived electroencephalogram (EEG) monitoring was recommended to provoke and capture epileptiform discharges, aiding in the diagnosis of epilepsy.
+
+Preprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Postprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Procedure:
+
+The patient was instructed to undergo sleep deprivation for a specified period, typically 24 to 48 hours, to increase the likelihood of capturing epileptiform discharges during the EEG recording. Following sleep deprivation, the patient was positioned comfortably in a reclined chair or bed in a quiet room.
+
+Electrodes were applied to the scalp according to the international 10-20 system for electrode placement. Continuous EEG monitoring was initiated using digital recording equipment. The patient's brain activity was monitored throughout the recording period, with specific attention paid to the occurrence of epileptiform discharges.
+
+Impression:
+
+Sleep-deprived EEG monitoring revealed frequent interictal epileptiform discharges consistent with a diagnosis of epilepsy. Provocation of seizures was not observed during the monitoring period. The findings support the diagnosis of epilepsy, and further evaluation for seizure control was recommended.
+
+Postoperative Care:
+
+The patient was monitored post-procedure for any adverse effects of sleep deprivation, such as fatigue or cognitive impairment. Results from the EEG monitoring were reviewed by a neurologist specializing in epilepsy, who interpreted the findings and discussed the implications with the patient. Treatment options, including initiation or adjustment of antiepileptic medications, were discussed during follow-up appointments.

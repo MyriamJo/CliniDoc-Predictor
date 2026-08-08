@@ -1,0 +1,33 @@
+DISCHARGE DISPOSITION:
+The patient was discharged against medical advice due to personal reasons.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Schizophrenia, paranoid type.
+AXIS II: Deferred.
+AXIS III: None.
+AXIS IV: Severe.
+AXIS V: 20.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient remained paranoid and exhibited disorganized behavior upon discharge.
+
+DISCHARGE FOLLOW-UP:
+Patient to follow up with outpatient mental health services for continuation of care and medication management.
+
+DISCHARGE MEDICATIONS:
+
+Haloperidol 5 mg p.o. b.i.d.
+Lorazepam 1 mg p.o. q.i.d. p.r.n. agitation.
+MENTAL STATUS AT DISCHARGE:
+
+Attitude: Hostile.
+Appearance: Disheveled.
+Psychomotor behavior: Agitated.
+Affect: Blunted.
+Mood: Anxious.
+Speech: Rapid and tangential.
+Thoughts: Paranoid delusions present.
+Suicidal or homicidal ideation: Denied.
+Insight: Poor.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 30-year-old male with a history of schizophrenia, was admitted due to exacerbation of paranoid delusions. Despite treatment, the patient chose to discharge against medical advice, displaying ongoing symptoms of psychosis.

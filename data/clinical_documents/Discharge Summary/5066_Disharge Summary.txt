@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+AB CD, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+X Y, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute myocardial infarction.
+Congestive heart failure.
+PROCEDURES DURING HOSPITALIZATION:
+Coronary angiography with stent placement.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. AAA, a 60-year-old male with a history of hypertension, presented with chest pain and dyspnea. EKG showed ST-segment elevation, and troponin levels were elevated. Diagnosed with acute myocardial infarction and treated with emergent coronary angiography and stent placement.
+
+HOSPITAL COURSE:
+Stable post-procedure with resolution of chest pain. Managed for heart failure exacerbation with diuretics and ACE inhibitors. Discharged home on appropriate medications and advised on lifestyle modifications.

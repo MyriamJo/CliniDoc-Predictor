@@ -1,0 +1,18 @@
+EXAM:
+DEXA Scan (Dual-Energy X-ray Absorptiometry).
+
+REASON FOR EXAM:
+
+Assessment of bone mineral density for osteoporosis screening.
+
+TECHNIQUE:
+
+Measurements of bone density at the lumbar spine and proximal femur are obtained using dual-energy X-ray absorptiometry.
+
+FINDINGS:
+
+T-score of -2.5 at the lumbar spine, indicating osteoporosis. T-score of -2.0 at the left femoral neck and -1.8 at the total left hip, indicating osteopenia. No significant vertebral fractures identified.
+
+IMPRESSION:
+
+Osteoporosis at the lumbar spine and osteopenia at the left femoral neck and total left hip. Recommend initiation of appropriate management and lifestyle modifications for osteoporosis prevention.

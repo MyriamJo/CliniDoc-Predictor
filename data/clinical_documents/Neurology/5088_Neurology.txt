@@ -1,0 +1,28 @@
+Title of Procedure: 
+Lumbar Puncture (LP) for Evaluation of Suspected Central Nervous System Infection
+
+Indication for Procedure:
+
+A 30-year-old male presented with acute-onset headache, photophobia, and neck stiffness. Clinical examination revealed signs suggestive of meningeal irritation. Given the concern for central nervous system (CNS) infection, lumbar puncture (LP) was recommended to obtain cerebrospinal fluid (CSF) for analysis and aid in the diagnosis of meningitis or encephalitis.
+
+Preprocedure Diagnosis:
+
+Suspected CNS infection (meningitis or encephalitis).
+
+Postprocedure Diagnosis:
+
+CNS infection (meningitis or encephalitis).
+
+Procedure:
+
+The patient underwent lumbar puncture (LP) under sterile conditions with the patient in the lateral decubitus position. After local anesthesia, a spinal needle was inserted into the subarachnoid space between the L3-L4 or L4-L5 vertebrae. CSF was collected and sent for analysis, including cell count, protein, glucose, and microbiological cultures.
+
+Additionally, CSF samples were examined for the presence of white blood cells, red blood cells, and any evidence of viral or bacterial pathogens. Special tests, such as polymerase chain reaction (PCR) assays, may be performed to identify specific pathogens, such as herpes simplex virus (HSV) or enteroviruses.
+
+Impression:
+
+Lumbar puncture (LP) revealed elevated CSF white blood cell count, elevated protein levels, and decreased CSF glucose levels, consistent with a diagnosis of acute bacterial meningitis. Microbiological cultures subsequently grew Streptococcus pneumoniae, confirming the diagnosis.
+
+Postoperative Care:
+
+The patient was started on empiric antibiotic therapy pending CSF culture results. Close monitoring of neurological status, vital signs, and response to treatment was initiated. Additional diagnostic imaging, such as magnetic resonance imaging (MRI) of the brain, may be performed to assess for complications of CNS infection, such as cerebral edema or abscess formation. Long-term antibiotic therapy and supportive care were planned based on culture sensitivities and clinical response.

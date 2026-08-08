@@ -1,0 +1,28 @@
+Title of Procedure: 
+Electromyography-Guided Radiofrequency Ablation for Chronic Low Back Pain
+
+Indication for Procedure:
+
+A 55-year-old male presented with chronic low back pain refractory to conservative management. Clinical examination revealed tenderness over the lumbar facet joints bilaterally. Electromyography (EMG) was recommended to confirm facet joint involvement and guide targeted intervention.
+
+Preprocedure Diagnosis:
+
+Bilateral lumbar facet joint syndrome.
+
+Postprocedure Diagnosis:
+
+Bilateral lumbar facet joint syndrome.
+
+Procedure:
+
+The patient was positioned comfortably in a prone position. Following skin preparation, needle electrodes were inserted adjacent to the affected facet joints to assess the electrical activity and dysfunction of the surrounding muscles.
+
+Under real-time EMG guidance, radiofrequency probes were advanced to the target facet joints. Sensory and motor stimulation were performed to confirm accurate needle placement. Radiofrequency energy was then delivered to the nerves supplying the facet joints to disrupt pain signals.
+
+Impression:
+
+EMG findings support the diagnosis of bilateral lumbar facet joint syndrome. Electromyography-guided radiofrequency ablation performed for targeted pain relief.
+
+Postoperative Care:
+
+The patient was advised on post-procedural care, including activity modification and potential temporary exacerbation of symptoms. Follow-up appointments were scheduled to monitor pain relief and assess the need for further interventions.

@@ -1,0 +1,28 @@
+Title of Procedure: 
+voked Potentials Study for Assessment of Visual Pathway Integrity
+
+Indication for Procedure:
+
+A 50-year-old male presented with progressive visual disturbances and suspected optic nerve dysfunction. Clinical examination revealed reduced visual acuity and color vision deficits. An evoked potentials study was recommended to assess the integrity of the visual pathway, localize the lesion, and aid in the diagnosis of optic neuropathy.
+
+Preprocedure Diagnosis:
+
+Suspected optic neuropathy with visual pathway dysfunction.
+
+Postprocedure Diagnosis:
+
+Optic neuropathy with visual pathway dysfunction.
+
+Procedure:
+
+The patient underwent an evoked potentials study, including visual evoked potentials (VEPs) and pattern electroretinography (PERG). VEPs were elicited by presenting visual stimuli, such as flashing lights or checkerboard patterns, while recording electrical responses from the occipital cortex.
+
+PERG involved recording electrical responses from the retina in response to patterned visual stimuli. These responses provided information about retinal ganglion cell function and optic nerve integrity.
+
+Impression:
+
+Evoked potentials study demonstrated delayed and reduced VEP responses, suggesting dysfunction along the visual pathway, particularly involving the optic nerve and optic radiations. PERG findings were consistent with retinal ganglion cell dysfunction, supporting the diagnosis of optic neuropathy.
+
+Postoperative Care:
+
+The patient's evoked potentials study results were reviewed by a neuro-ophthalmologist, who interpreted the findings and discussed treatment options, including neuroprotective measures and disease-modifying therapies. Close monitoring of visual function and periodic reassessment were scheduled to track disease progression and treatment response over time.

@@ -1,0 +1,19 @@
+EXAM:
+Ultrasound Abdomen.
+
+REASON FOR EXAM:
+
+Evaluation of right upper quadrant pain.
+
+TECHNIQUE:
+
+Grayscale and color Doppler imaging of the liver, gallbladder, pancreas, spleen, kidneys, and aorta are performed.
+
+FINDINGS:
+
+The liver demonstrates normal echogenicity without focal lesions. No evidence of gallstones or biliary ductal dilatation. The pancreas appears normal. No splenic abnormalities detected. Both kidneys demonstrate normal size and cortical thickness without hydronephrosis or renal masses. Aorta demonstrates normal caliber and flow.
+
+IMPRESSION:
+
+Normal ultrasound of the abdomen. No acute hepatobiliary or renal abnormalities identified. Recommend clinical correlation for further evaluation of right upper quadrant pain.
+

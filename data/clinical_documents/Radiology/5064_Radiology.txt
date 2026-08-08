@@ -1,0 +1,13 @@
+EXAM:
+CT Angiography Chest.
+REASON FOR EXAM:
+Evaluation of suspected pulmonary embolism.
+
+TECHNIQUE:
+CT angiography of the chest performed following intravenous administration of contrast material.
+
+FINDINGS:
+No evidence of filling defects or pulmonary emboli identified within the pulmonary arteries. Normal enhancement of the pulmonary vasculature. Lung parenchyma appears clear bilaterally. No evidence of pneumothorax or pleural effusion.
+
+IMPRESSION:
+Negative CT angiography for pulmonary embolism. No acute cardiopulmonary abnormalities detected. Clinical correlation recommended for further evaluation of symptoms.

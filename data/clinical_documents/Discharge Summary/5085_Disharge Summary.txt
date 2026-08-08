@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe pneumonia, respiratory distress syndrome.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 05/10/2024 with severe pneumonia complicated by respiratory distress syndrome. Treatment included aggressive antibiotic therapy, supplemental oxygen, chest physiotherapy, and respiratory support. Despite initial improvement, the patient's respiratory status remained compromised, requiring transfer to the intensive care unit for advanced respiratory management.
+
+RECOMMENDATIONS:
+Discharged from respiratory therapy services today, as the patient requires continued intensive care for respiratory support.

@@ -1,0 +1,26 @@
+Title of Procedure: 
+Lumbar Puncture for Evaluation of Intracranial Hypotension
+
+Indication for Procedure:
+
+A 40-year-old female presented with a history of severe postural headaches, nausea, and neck stiffness. Clinical evaluation revealed worsening symptoms upon sitting or standing, suggestive of intracranial hypotension secondary to a spontaneous cerebrospinal fluid (CSF) leak. Lumbar puncture was recommended to confirm the diagnosis and assess CSF pressure.
+
+Preprocedure Diagnosis:
+
+Suspected intracranial hypotension secondary to CSF leak.
+
+Postprocedure Diagnosis:
+
+Intracranial hypotension.
+
+Procedure:
+
+The patient was positioned in the lateral decubitus position, and the lower back was prepped and draped in a sterile manner. After local anesthesia, a spinal needle was inserted into the subarachnoid space, and CSF pressure was measured using a manometer. Additional CSF samples were collected and sent for analysis.
+
+Impression:
+
+Lumbar puncture confirmed decreased CSF pressure, consistent with a diagnosis of intracranial hypotension. CSF analysis revealed low protein levels, low glucose levels, and absence of blood, ruling out alternative etiologies such as infection or hemorrhage. The findings supported the diagnosis of spontaneous CSF leak as the underlying cause of the patient's symptoms.
+
+Postoperative Care:
+
+The patient was advised to maintain strict bed rest and increase oral fluid intake to promote CSF volume replenishment and facilitate spontaneous closure of the leak. Symptomatic management with analgesics and antiemetics was provided to alleviate headache and nausea. Close monitoring for symptom improvement and resolution of postural headaches was instituted, with plans for additional interventions such as epidural blood patching if symptoms persisted.

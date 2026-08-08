@@ -1,0 +1,20 @@
+# Notebook 01 - traditional ML
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn==1.5.0
+spacy==3.7.4
+joblib
+
+# Notebook 02 - sequence models
+tensorflow>=2.15
+
+# Notebook 03 - BERT fine-tuning
+torch
+transformers
+accelerate
+tqdm
+
+# After installing the above, download the spaCy model used by src/preprocessing.py:
+#   python -m spacy download en_core_web_lg

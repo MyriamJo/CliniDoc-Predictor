@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe burns, smoke inhalation injury.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 05/15/2024 following a residential fire resulting in severe burns and smoke inhalation injury. Treatment included initial debridement and wound care, respiratory support, and fluid resuscitation. Despite aggressive management, the extent of burns and inhalation injury posed significant challenges to recovery, necessitating transfer to a specialized burn center for advanced burn care and rehabilitation.
+
+RECOMMENDATIONS:
+Discharged from burn unit services today, as the patient requires continued care in a specialized burn center for comprehensive burn care and rehabilitation.

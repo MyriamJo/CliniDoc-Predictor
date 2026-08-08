@@ -1,0 +1,10 @@
+EXAM:
+MRI Knee
+CLINICAL:
+This is a 30-year-old female presenting with a history of persistent knee pain and swelling, exacerbated by physical activity and prolonged standing. The patient describes the discomfort as a dull ache, localized to the medial aspect of the left knee joint, with occasional episodes of locking or giving way. There is no history of trauma or significant prior knee injuries. Given the clinical presentation, the patient is being evaluated for possible meniscal tear or ligamentous injury.
+
+FINDINGS:
+MRI imaging of the knee joint was performed on November 25, 2020. The examination reveals evidence of a complex horizontal tear involving the posterior horn of the medial meniscus, accompanied by meniscal extrusion. Additionally, mild degenerative changes are noted in the articular cartilage of the medial compartment. No significant ligamentous injury or joint effusion is observed.
+
+IMPRESSION:
+The presence of a complex horizontal tear of the posterior horn of the medial meniscus with meniscal extrusion is confirmed on MRI. Mild degenerative changes in the articular cartilage of the medial compartment are also noted. No significant ligamentous injury is identified. Clinical correlation is recommended for further management, including consideration of arthroscopic intervention for meniscal repair or debridement.

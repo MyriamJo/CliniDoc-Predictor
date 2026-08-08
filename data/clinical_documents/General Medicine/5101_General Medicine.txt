@@ -1,0 +1,10 @@
+CC :
+"I've been experiencing difficulty urinating and lower abdominal pain."
+HPI :
+A 55-year-old man presents with complaints of difficulty urinating and lower abdominal pain. He reports a sensation of incomplete bladder emptying and a weak urinary stream. Additionally, he describes intermittent episodes of urinary urgency and nocturia, waking up multiple times at night to urinate. He denies any gross hematuria, urinary retention, or urinary incontinence.
+PMH :
+The patient has a history of benign prostatic hyperplasia and hypertension, for which he takes medications regularly. He has no history of urinary tract infections or kidney stones.
+FHX :
+There is a family history of prostate cancer on his father's side, but no other significant urological diseases.
+SHX :
+The patient is a non-smoker and does not consume alcohol excessively. He works as an accountant and leads a sedentary lifestyle, but tries to stay active by walking daily.

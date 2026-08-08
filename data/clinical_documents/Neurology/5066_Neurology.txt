@@ -1,0 +1,28 @@
+Title of Procedure: 
+Electroencephalogram (EEG) Monitoring for Seizure Evaluation
+
+Indication for Procedure:
+
+A 25-year-old female presented with a history of recurrent episodes of altered consciousness and abnormal movements suggestive of seizures. Clinical examination revealed no focal neurological deficits. Electroencephalogram (EEG) monitoring was recommended to evaluate seizure activity and guide treatment decisions.
+
+Preprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Postprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Procedure:
+
+The patient was positioned comfortably in a reclined chair or bed in a dimly lit room. Electrodes were attached to the scalp using conductive gel or paste, following the international 10-20 system for electrode placement. Additional electrodes may be placed for extended monitoring or to capture specific seizure types.
+
+Continuous EEG monitoring was performed using digital recording equipment. The patient was observed for any clinical events or changes in behavior during the recording. Activation procedures, such as hyperventilation or photic stimulation, may be employed to provoke seizures and capture them on the EEG.
+
+Impression:
+
+EEG findings support the diagnosis of epilepsy. Electroencephalogram monitoring performed for seizure evaluation and characterization.
+
+Postoperative Care:
+
+The patient was monitored post-procedure for any adverse effects, such as skin irritation from the electrodes or transient discomfort. Results from the EEG monitoring were reviewed by a neurologist or epileptologist to interpret the findings and guide treatment decisions. Follow-up appointments were scheduled to discuss the results and develop a comprehensive management plan.

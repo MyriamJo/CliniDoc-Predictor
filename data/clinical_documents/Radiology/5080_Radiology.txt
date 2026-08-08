@@ -1,0 +1,10 @@
+EXAM:
+MRI Thoracic Spine
+CLINICAL:
+This is a 60-year-old male presenting with a history of progressive thoracic back pain, aggravated by prolonged sitting and bending forward. The patient describes the discomfort as a dull ache, localized to the mid-thoracic region, with occasional radiation to the chest wall. There is no history of trauma or constitutional symptoms. Given the clinical presentation, the patient is being evaluated for possible spinal cord compression or vertebral pathology.
+
+FINDINGS:
+MRI imaging of the thoracic spine was performed on September 5, 2020. The examination reveals evidence of multilevel degenerative changes, including disc bulging and osteophyte formation, most prominently at the T7-T8 level. Despite these findings, there is only mild anterior indentation on the thecal sac without significant spinal canal stenosis. Furthermore, no evidence of acute fracture or cord compression is identified.
+
+IMPRESSION:
+The presence of multilevel degenerative changes with disc bulging and osteophyte formation, most pronounced at the T7-T8 level, is confirmed on MRI. Mild anterior indentation on the thecal sac without significant spinal canal stenosis is noted. Clinical correlation is recommended for further evaluation, including consideration of conservative management modalities such as physical therapy and analgesics.

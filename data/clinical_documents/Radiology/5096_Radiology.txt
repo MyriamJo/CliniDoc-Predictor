@@ -1,0 +1,13 @@
+INDICATIONS:
+Evaluation of suspected acromegaly in a patient with characteristic clinical features.
+PROCEDURE DONE:
+MRI Brain with Pituitary Protocol.
+
+MRI RESULTS:
+Multiplanar T1-weighted sequences of the brain were obtained before and after intravenous contrast administration. Findings reveal a well-defined contrast-enhancing lesion within the sella turcica measuring approximately 1.2 cm, consistent with a pituitary macroadenoma. No evidence of mass effect on the optic chiasm or surrounding structures observed.
+
+CONCLUSIONS:
+
+Well-defined contrast-enhancing lesion within the sella turcica consistent with a pituitary macroadenoma.
+Absence of mass effect on the optic chiasm or surrounding structures.
+Clinical correlation recommended for further evaluation of suspected acromegaly.

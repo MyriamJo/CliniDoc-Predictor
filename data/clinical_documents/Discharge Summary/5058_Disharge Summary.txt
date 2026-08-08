@@ -1,0 +1,30 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to home with family support.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Major depressive disorder, recurrent episode, severe.
+AXIS II: Deferred.
+AXIS III: None.
+AXIS IV: Moderate.
+AXIS V: 30.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's mood improved with medication adjustments and therapeutic interventions during hospitalization.
+
+DISCHARGE FOLLOW-UP:
+Outpatient psychiatric follow-up scheduled in one week for medication management and therapy continuation.
+
+DISCHARGE MEDICATIONS:
+
+Escitalopram 20 mg p.o. daily.
+Bupropion XL 150 mg p.o. daily.
+Lorazepam 1 mg p.o. b.i.d. p.r.n. anxiety.
+MENTAL STATUS AT DISCHARGE:
+
+Affect: Improved.
+Mood: Euthymic.
+Speech: Normal rate and volume.
+Thoughts: No suicidal ideation.
+Insight: Improved.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 35-year-old female with a history of recurrent major depressive disorder, was admitted due to worsening depressive symptoms. Treatment included medication optimization and cognitive-behavioral therapy, resulting in symptom improvement and readiness for discharge.

@@ -1,0 +1,25 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Emily Wilson, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Jason Roberts, M.D.
+
+ADMITTING DIAGNOSES:
+
+Ischemic stroke.
+Left-sided hemiparesis.
+PROCEDURES DURING HOSPITALIZATION:
+None.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Susan Smith, a 55-year-old female, presented with sudden-onset weakness of the left side of her body. Neurological examination and imaging confirmed the diagnosis of ischemic stroke involving the right middle cerebral artery territory.
+
+HOSPITAL COURSE:
+Ms. Smith was managed with thrombolytic therapy and supportive care. Her neurological deficits improved during hospitalization. Discharged home with a rehabilitation plan and secondary prevention measures.
+

@@ -1,0 +1,25 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. John Smith, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Emily Johnson, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute myocardial infarction.
+Congestive heart failure.
+Hypertension.
+PROCEDURES DURING HOSPITALIZATION:
+Coronary angiography with stent placement.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. James Brown, a 65-year-old male, presented with chest pain and shortness of breath. EKG revealed ST-segment elevation, consistent with acute myocardial infarction. He underwent emergent coronary angiography, which showed significant coronary artery disease requiring stent placement. He was managed for heart failure exacerbation and hypertension.
+
+HOSPITAL COURSE:
+Mr. Brown's condition stabilized post-procedure, with resolution of chest pain. He was discharged with appropriate medications and advised on lifestyle modifications.

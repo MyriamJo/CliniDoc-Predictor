@@ -1,0 +1,8 @@
+DIAGNOSES:
+Severe traumatic brain injury, multiple fractures.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 03/12/2024 following a severe traumatic brain injury and multiple fractures sustained in a motor vehicle accident. Treatment included surgical intervention for fracture stabilization, aggressive neurological monitoring, and initiation of rehabilitation therapy. Despite intensive efforts, the patient's neurological status remained unstable, necessitating transfer to a specialized neurocritical care unit for ongoing management.
+
+RECOMMENDATIONS:
+Discharged from rehabilitation services today, as the patient requires continued care in a specialized neurocritical care unit for comprehensive neurological monitoring and management.

@@ -1,0 +1,28 @@
+HISTORY OF PRESENT ILLNESS:
+A 50-year-old female presents with a two-day history of sudden-onset severe headache, described as the worst headache of her life. She reports associated nausea, vomiting, and photophobia. She denies any fever, neck stiffness, or focal neurological deficits. Past medical history is significant for hypertension, which has been poorly controlled.
+
+PAST MEDICAL HISTORY:
+Hypertension, poorly controlled on antihypertensive medication.
+
+SOCIAL HISTORY:
+Non-contributory.
+
+FAMILY HISTORY:
+Non-contributory.
+
+PHYSICAL EXAMINATION:
+Vital Signs: Temperature 98.6°F, Blood Pressure 180/110 mmHg, Pulse 90 bpm, Respiratory Rate 16 breaths/min.
+Neurological: Alert and oriented, no focal deficits. Kernig's and Brudzinski's signs negative.
+Cardiovascular: Regular rhythm without murmurs.
+Respiratory: Clear to auscultation bilaterally.
+
+ASSESSMENT:
+
+Thunderclap Headache: Concerning for subarachnoid hemorrhage given the sudden onset and severity of headache in the setting of poorly controlled hypertension.
+Uncontrolled Hypertension: Contributing factor to the development of headache and potential underlying pathology.
+PLAN:
+
+Emergent Imaging: Order non-contrast head CT to evaluate for evidence of subarachnoid hemorrhage.
+Blood Pressure Management: Initiate aggressive blood pressure control with intravenous antihypertensive agents.
+Neurosurgical Consultation: Consideration for further management based on imaging findings.
+Pain Management: Provide analgesia as needed to alleviate headache symptoms.

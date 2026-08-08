@@ -1,0 +1,20 @@
+EXAM:
+
+Chest X-ray.
+
+REASON FOR EXAM:
+
+Persistent cough and shortness of breath.
+
+TECHNIQUE:
+
+Posteroanterior and lateral views of the chest are obtained.
+
+FINDINGS:
+
+The heart size is within normal limits. Lungs are clear bilaterally without evidence of consolidation or effusion. No focal infiltrates, masses, or nodules are identified. Mediastinal contours are normal. No evidence of pneumothorax. Bony structures appear intact.
+
+IMPRESSION:
+
+Normal chest X-ray. No acute cardiopulmonary abnormalities identified.
+

@@ -1,0 +1,22 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+AB CD, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+X Y, M.D.
+
+ADMITTING DIAGNOSES:
+
+Acute exacerbation of chronic obstructive pulmonary disease (COPD).
+Pneumonia.
+HISTORY OF PRESENT ILLNESS:
+Mr. ZZZ, a 65-year-old male with a history of COPD, presented with worsening dyspnea, cough, and fever. Chest X-ray revealed infiltrates consistent with pneumonia. Admitted for IV antibiotics and respiratory support.
+
+HOSPITAL COURSE:
+Responded well to treatment, with resolution of fever and improvement in respiratory symptoms. Oxygen requirement decreased. Discharged home on oral antibiotics and inhalers.
+

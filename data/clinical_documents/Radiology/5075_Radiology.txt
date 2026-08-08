@@ -1,0 +1,11 @@
+EXAM: 
+MRI Hip
+
+CLINICAL:
+This is a 50-year-old male with chronic hip pain and limited range of motion. The patient reports experiencing discomfort in the right hip joint for the past year, exacerbated by weight-bearing activities and prolonged sitting. There is no history of trauma or previous hip surgeries. Given the clinical presentation, the patient is being evaluated for possible hip osteoarthritis or labral tear.
+
+FINDINGS:
+MRI imaging of the right hip was performed on April 20, 2021. The examination reveals evidence of femoroacetabular impingement (FAI) morphology, with cam-type deformity characterized by abnormal prominence at the femoral head-neck junction. Additionally, there is evidence of acetabular labral tear involving the anterior and superior labrum. Mild degenerative changes are noted in the articular cartilage of the femoral head and acetabulum, predominantly in the anterosuperior quadrant.
+
+IMPRESSION:
+The presence of femoroacetabular impingement (FAI) morphology with cam-type deformity and associated acetabular labral tear is confirmed on MRI. Mild degenerative changes in the articular cartilage are also noted. Clinical correlation is recommended for further management, including consideration of conservative measures such as physical therapy and activity modification, or surgical intervention such as hip arthroscopy for labral repair or osteochondroplasty.

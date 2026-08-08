@@ -1,0 +1,28 @@
+Title of Procedure: 
+Somatosensory Evoked Potentials (SSEPs) Monitoring During Spinal Surgery
+
+Indication for Procedure:
+
+A 45-year-old female presented with progressive weakness and sensory disturbances in the lower extremities secondary to cervical spinal stenosis. Surgical decompression and stabilization were recommended to relieve spinal cord compression and prevent further neurological deficits. Intraoperative monitoring of somatosensory evoked potentials (SSEPs) was planned to assess spinal cord integrity during surgery.
+
+Preprocedure Diagnosis:
+
+Cervical spinal stenosis with myelopathy.
+
+Postprocedure Diagnosis:
+
+Cervical spinal stenosis with surgical decompression and stabilization.
+
+Procedure:
+
+The patient underwent cervical spinal surgery under general anesthesia with neuromuscular blockade. Somatosensory evoked potentials (SSEPs) monitoring was initiated prior to surgical incision to assess baseline sensory function. Electrical stimulation was applied to peripheral nerves, and responses were recorded from electrodes placed over the scalp and spinal cord.
+
+Continuous monitoring of SSEPs was performed throughout the surgical procedure to detect any changes in spinal cord function, such as signal attenuation or latency prolongation, indicative of spinal cord ischemia or injury. Adjustments to surgical technique, positioning, or spinal cord manipulation were made based on real-time feedback from the SSEPs monitoring.
+
+Impression:
+
+Intraoperative monitoring of somatosensory evoked potentials (SSEPs) provided real-time feedback on spinal cord integrity during cervical spinal surgery, guiding surgical decisions and minimizing the risk of neurological complications. Preservation of SSEP waveforms throughout the procedure indicated adequate spinal cord perfusion and function.
+
+Postoperative Care:
+
+The patient was closely monitored postoperatively for any neurological deficits or complications related to the surgery. Rehabilitation and physical therapy were initiated to optimize functional recovery. Long-term follow-up was scheduled to monitor neurological outcomes and assess the efficacy of surgical intervention in relieving symptoms and preventing disease progression.

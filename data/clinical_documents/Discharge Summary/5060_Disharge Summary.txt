@@ -1,0 +1,30 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to a rehabilitation facility for physical therapy.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Ischemic stroke, right hemiparesis.
+AXIS II: Deferred.
+AXIS III: Hypertension.
+AXIS IV: Mild.
+AXIS V: 45.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's right-sided weakness persisted, requiring assistance for mobility and activities of daily living.
+
+DISCHARGE FOLLOW-UP:
+Scheduled follow-up appointments with neurology and rehabilitation services.
+
+DISCHARGE MEDICATIONS:
+
+Clopidogrel 75 mg p.o. daily.
+Lisinopril 10 mg p.o. daily.
+Atorvastatin 20 mg p.o. daily.
+NEUROLOGICAL STATUS AT DISCHARGE:
+
+Mental status: Alert and oriented x3.
+Cranial nerves: Intact.
+Motor: Right-sided hemiparesis.
+Sensory: Intact.
+Reflexes: Diminished on the right.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 60-year-old male, was admitted following an ischemic stroke resulting in right-sided weakness. During hospitalization, the patient received stroke rehabilitation therapy, demonstrating minimal improvement in motor function.

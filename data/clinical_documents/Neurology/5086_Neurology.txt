@@ -1,0 +1,28 @@
+Title of Procedure: 
+Nerve Conduction Study and Electromyography (EMG) for Evaluation of Peripheral Neuropathy
+
+Indication for Procedure:
+
+A 55-year-old male presented with complaints of progressive weakness, sensory loss, and tingling sensations in the lower extremities. Clinical examination revealed diminished deep tendon reflexes and distal muscle atrophy. Nerve conduction study (NCS) and electromyography (EMG) were recommended to assess peripheral nerve function and aid in the diagnosis of peripheral neuropathy.
+
+Preprocedure Diagnosis:
+
+Suspected peripheral neuropathy.
+
+Postprocedure Diagnosis:
+
+Peripheral neuropathy.
+
+Procedure:
+
+The patient underwent nerve conduction study (NCS) to evaluate the speed and amplitude of electrical impulses along peripheral nerves. Surface electrodes were placed over the nerves of interest, and stimulating electrodes delivered electrical impulses to assess nerve conduction velocity and latency.
+
+Subsequently, electromyography (EMG) was performed to assess muscle activity and detect abnormalities suggestive of denervation or neuropathic changes. Needle electrodes were inserted into specific muscles to record spontaneous electrical activity and motor unit recruitment patterns.
+
+Impression:
+
+Nerve conduction study (NCS) revealed prolonged distal motor and sensory latencies, reduced nerve conduction velocities, and absent or diminished compound muscle action potentials (CMAPs) and sensory nerve action potentials (SNAPs), consistent with peripheral neuropathy. Electromyography (EMG) demonstrated fibrillation potentials, positive sharp waves, and reduced recruitment patterns, indicative of chronic denervation and axonal loss.
+
+Postoperative Care:
+
+The patient's NCS and EMG results were reviewed by a neurologist specializing in neuromuscular disorders, who interpreted the findings and discussed treatment options, including symptomatic management, physical therapy, and potential underlying etiologies requiring further investigation. Close follow-up appointments were scheduled to monitor disease progression and treatment response

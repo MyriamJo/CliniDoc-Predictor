@@ -1,0 +1,13 @@
+INDICATIONS:
+Evaluation of chronic neck pain and history of motor vehicle accident.
+PROCEDURE DONE:
+MRI Cervical Spine with Diffusion Tensor Imaging (DTI).
+
+MRI RESULTS:
+Multiplanar T1-weighted, T2-weighted, and DTI sequences of the cervical spine were obtained. Findings reveal mild degenerative changes with disc desiccation at multiple levels, most prominent at C5-C6. Additionally, DTI demonstrates altered diffusion metrics along the course of the cervical nerve roots, indicative of possible axonal injury. No evidence of acute fractures or cord compression observed.
+
+CONCLUSIONS:
+
+Mild degenerative changes with disc desiccation, most pronounced at the C5-C6 level.
+Altered diffusion metrics along cervical nerve roots suggestive of axonal injury.
+Absence of acute fractures or significant cord compression.

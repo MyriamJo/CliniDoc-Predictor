@@ -1,0 +1,10 @@
+Django==5.0.6
+djangorestframework==3.15.1
+django-cors-headers==4.3.1
+joblib==1.4.2
+scikit-learn==1.5.0
+spacy==3.7.4
+nltk==3.8.1
+
+# After installing the above, download the spaCy model used by the classifier:
+#   python -m spacy download en_core_web_lg

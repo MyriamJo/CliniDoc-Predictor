@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute appendicitis, post-appendectomy pain.
+
+DISCHARGE SUMMARY:
+The patient underwent emergency appendectomy on 02/15/2024 following an acute episode of appendicitis. Following surgery, the patient experienced persistent post-operative pain. Two sessions of pain management were conducted, including pharmacological interventions and guided relaxation techniques. Despite efforts, the pain persisted, leading to the decision to transfer the patient to the surgical ward for further evaluation and management.
+
+RECOMMENDATIONS:
+Discharged from pain management services today, as the patient requires further evaluation and management on the surgical ward.

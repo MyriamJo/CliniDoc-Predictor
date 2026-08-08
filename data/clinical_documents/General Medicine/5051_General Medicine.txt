@@ -1,0 +1,23 @@
+SUBJECTIVE:
+The patient, a 45-year-old female, presents with complaints of abdominal pain that started gradually over the past week. She describes the pain as crampy and localized to the lower abdomen. She also reports bloating and changes in bowel habits.
+
+PAST MEDICAL HISTORY:
+History of irritable bowel syndrome (IBS) and fibromyalgia.
+
+FAMILY HISTORY:
+Mother had a history of colon cancer.
+
+SOCIAL HISTORY:
+Works as a teacher. Denies smoking or alcohol use.
+
+OBJECTIVE:
+Abdominal exam reveals tenderness in the left lower quadrant with no rebound or guarding. Bowel sounds normal.
+
+LABORATORY:
+CBC and CMP within normal limits.
+
+ASSESSMENT:
+Suspected exacerbation of IBS.
+
+PLAN:
+Started on a low-FODMAP diet and advised to follow up with gastroenterology for further evaluation.

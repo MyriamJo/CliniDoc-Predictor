@@ -1,0 +1,13 @@
+DIAGNOSES:
+Acute gastrointestinal bleed, peptic ulcer disease.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 02/28/2024 with acute gastrointestinal bleeding secondary to peptic ulcer disease. Treatment included intravenous proton pump inhibitors, blood transfusions, and endoscopic intervention. Despite hemostasis achieved, the patient experienced recurrent episodes of bleeding, necessitating transfer to the surgical ward for consideration of surgical intervention.
+
+RECOMMENDATIONS:
+Discharged from gastroenterology services today, as the patient requires continued evaluation and management on the surgical ward for consideration of surgical intervention.
+
+
+
+
+

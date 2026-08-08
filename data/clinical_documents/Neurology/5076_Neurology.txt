@@ -1,0 +1,28 @@
+Title of Procedure:
+Ambulatory Electroencephalogram (EEG) Monitoring for Evaluation of Suspected Non-Epileptic Seizures
+
+Indication for Procedure:
+
+A 30-year-old female presented with episodes of altered consciousness and motor symptoms resembling seizures. However, diagnostic workup, including routine EEG, did not reveal epileptiform activity. Clinical suspicion for non-epileptic seizures was raised. Ambulatory EEG monitoring was recommended to capture and characterize these episodes outside of the hospital setting.
+
+Preprocedure Diagnosis:
+
+Suspected non-epileptic seizures.
+
+Postprocedure Diagnosis:
+
+Suspected non-epileptic seizures.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system, with additional electrodes for prolonged monitoring. A portable EEG recording device was attached, allowing continuous recording over 24 to 72 hours. The patient was instructed to go about their normal activities while wearing the equipment.
+
+Continuous EEG monitoring was performed, capturing brain activity during various activities and potential seizure events. The patient was provided with a diary to document any symptoms experienced during the monitoring period, helping to correlate clinical events with EEG findings.
+
+Impression:
+
+Ambulatory EEG monitoring captured multiple episodes of altered consciousness and motor symptoms consistent with non-epileptic seizures. EEG findings did not demonstrate epileptiform activity during these events, supporting the diagnosis of non-epileptic seizures.
+
+Postoperative Care:
+
+The patient returned the ambulatory EEG equipment to the clinic for data analysis. Results were reviewed by a neurologist specializing in epilepsy and seizure disorders, who interpreted the findings and discussed the implications with the patient. Counseling and education regarding non-epileptic seizures were provided, and further management strategies were discussed during follow-up appointments.

@@ -1,0 +1,28 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to home with home health services.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Chronic obstructive pulmonary disease (COPD) exacerbation.
+AXIS II: Deferred.
+AXIS III: Hypertension.
+AXIS IV: Mild.
+AXIS V: 60.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's respiratory status improved with treatment but required supplemental oxygen at discharge.
+
+DISCHARGE FOLLOW-UP:
+Home health services arranged for continued respiratory therapy and monitoring.
+
+DISCHARGE MEDICATIONS:
+
+Albuterol inhaler as needed.
+Prednisone 40 mg p.o. daily for 5 days.
+Lisinopril 10 mg p.o. daily.
+RESPIRATORY STATUS AT DISCHARGE:
+
+Oxygen saturation: 92% on 2L/min nasal cannula.
+Respiratory rate: 18 breaths per minute.
+Breath sounds: Diminished in bilateral lower lobes with expiratory wheezes.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 70-year-old male with a history of COPD, presented with worsening dyspnea and productive cough. Treatment included bronchodilators, corticosteroids, and supplemental oxygen, resulting in symptomatic improvement.

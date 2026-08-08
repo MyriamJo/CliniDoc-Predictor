@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute pancreatitis, cholecystitis.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 09/05/2024 with acute pancreatitis and cholecystitis. Treatment included pain management, intravenous fluid hydration, bowel rest, and antibiotic therapy. Despite initial improvement in symptoms, the patient developed complications of pancreatitis, including pancreatic necrosis and infected bile duct stones, necessitating transfer to the surgical ward for further evaluation and management.
+
+RECOMMENDATIONS:
+Discharged from gastroenterology services today, as the patient requires continued evaluation and management on the surgical ward.

@@ -1,0 +1,13 @@
+INDICATIONS:
+Suspected pulmonary embolism in a patient with acute dyspnea.
+PROCEDURE DONE:
+CT Pulmonary Angiography.
+
+CT RESULTS:
+Contrast-enhanced CT imaging of the pulmonary arteries was performed to assess for pulmonary embolism. Findings reveal no evidence of filling defects or pulmonary emboli within the pulmonary vasculature, effectively ruling out acute embolic events. Additionally, normal enhancement of pulmonary arteries is noted, with no evidence of pulmonary infarction or pleural effusion.
+
+CONCLUSIONS:
+
+Negative CT pulmonary angiography for pulmonary embolism.
+Normal enhancement of pulmonary arteries, indicating adequate perfusion.
+Absence of pulmonary infarction or pleural effusion.

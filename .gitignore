@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Notebook re-run outputs (the deployed copies live in app/backend/myapp/ml_artifacts/)
+notebooks/models/
+
+# Django runtime
+app/backend/media/*
+!app/backend/media/.gitkeep
+
+# Leftover Create React App git internals kept only for reference, not a real repo
+app/frontend/.git_old_cra_init/
+
+# OS
+.DS_Store
+Thumbs.db

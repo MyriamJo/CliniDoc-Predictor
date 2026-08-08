@@ -1,0 +1,10 @@
+EXAM:
+MRI Brain
+CLINICAL:
+This is a 45-year-old male presenting with a history of recurrent headaches and intermittent visual disturbances. The patient describes experiencing throbbing headaches, often accompanied by visual blurring and photophobia, for the past six months. There are no associated neurological deficits or seizures. Given the clinical history, the patient is being evaluated for possible intracranial pathology.
+
+FINDINGS:
+MRI imaging of the brain was performed on July 10, 2020. The examination reveals a well-defined contrast-enhancing lesion within the sella turcica measuring approximately 1.8 cm. These findings are consistent with a pituitary macroadenoma. Despite the tumor's size, there is no evidence of mass effect on the optic chiasm or surrounding structures. Furthermore, there are no intracranial hemorrhages or acute infarctions identified.
+
+IMPRESSION:
+The presence of a pituitary macroadenoma within the sella turcica is confirmed on imaging. Despite the tumor's size, there is no evidence of mass effect on adjacent structures, indicating a relatively benign course. Clinical correlation is recommended for further endocrinological evaluation, including assessment of hormone levels and consideration of treatment options such as surgical resection or medical management with dopamine agonists.

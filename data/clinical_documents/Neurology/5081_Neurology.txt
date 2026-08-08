@@ -1,0 +1,27 @@
+Title of Procedure: Magnetoencephalography (MEG) for Localization of Epileptogenic Zone
+
+Indication for Procedure:
+
+A 25-year-old female with medically refractory epilepsy was being evaluated for potential surgical intervention. Previous neuroimaging studies and EEG recordings failed to localize the seizure focus adequately. Magnetoencephalography (MEG) was recommended to precisely localize the epileptogenic zone and guide surgical planning.
+
+Preprocedure Diagnosis:
+
+Medically refractory epilepsy with unknown seizure focus.
+
+Postprocedure Diagnosis:
+
+Medically refractory epilepsy with localized epileptogenic zone.
+
+Procedure:
+
+The patient underwent magnetoencephalography (MEG) imaging using a whole-head MEG system. The procedure involved measuring the magnetic fields produced by neuronal activity in the brain in response to specific stimuli or during spontaneous seizures. The patient was instructed to remain still during the recording to minimize motion artifacts.
+
+MEG data were processed and analyzed using advanced imaging techniques, including magnetic source imaging (MSI) and distributed source modeling. These methods enabled the reconstruction of brain activity and localization of epileptiform discharges with high spatial resolution.
+
+Impression:
+
+Magnetoencephalography (MEG) revealed focal interictal spikes and spike-wave complexes localized to the left mesial temporal lobe, consistent with the suspected epileptogenic zone. MSI and distributed source modeling further refined the localization of abnormal brain activity, guiding surgical planning.
+
+Postoperative Care:
+
+The MEG findings were reviewed by a multidisciplinary team, including epileptologists, neurosurgeons, and neurophysiologists, to discuss treatment options. Surgical resection of the epileptogenic zone was considered based on the MEG findings, with subsequent monitoring to assess seizure control and neurological outcomes. Close follow-up was scheduled to optimize postoperative management and address any complications.

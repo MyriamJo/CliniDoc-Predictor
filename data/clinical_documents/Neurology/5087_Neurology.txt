@@ -1,0 +1,28 @@
+Title of Procedure:
+Polysomnography for Evaluation of Suspected Sleep Apnea
+
+Indication for Procedure:
+
+A 45-year-old female presented with complaints of loud snoring, witnessed apneas, and excessive daytime sleepiness. Clinical examination revealed obesity and craniofacial features suggestive of obstructive sleep apnea (OSA). Polysomnography was recommended to assess sleep architecture, monitor respiratory parameters, and aid in the diagnosis of sleep-disordered breathing.
+
+Preprocedure Diagnosis:
+
+Suspected obstructive sleep apnea (OSA).
+
+Postprocedure Diagnosis:
+
+Obstructive sleep apnea (OSA).
+
+Procedure:
+
+The patient underwent overnight polysomnography in a sleep laboratory setting. Electrodes were placed on the scalp to record electroencephalography (EEG) activity, along with sensors to monitor respiratory effort, airflow, oxygen saturation, and heart rate. Additional sensors were applied to assess body position and monitor for limb movements.
+
+Polysomnography captured data on sleep stages, respiratory events (e.g., apneas, hypopneas), oxygen desaturation, and associated physiological parameters. The patient's sleep architecture and respiratory parameters were analyzed to determine the severity of sleep-disordered breathing.
+
+Impression:
+
+Polysomnography revealed multiple respiratory events, including obstructive apneas, hypopneas, and desaturations, consistent with a diagnosis of obstructive sleep apnea (OSA). Sleep architecture analysis showed fragmented sleep with reduced REM sleep and increased arousals, indicative of sleep disruption.
+
+Postoperative Care:
+
+The patient's polysomnography results were reviewed by a sleep medicine specialist, who interpreted the findings and discussed treatment options, including continuous positive airway pressure (CPAP) therapy, oral appliances, weight management strategies, or surgical interventions. Continuous follow-up and adherence to treatment recommendations were emphasized to optimize long-term outcomes and reduce the risk of associated cardiovascular and metabolic complications.

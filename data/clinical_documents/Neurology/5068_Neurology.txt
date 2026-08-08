@@ -1,0 +1,28 @@
+Title of Procedure: 
+Prolonged Ambulatory Electroencephalogram (EEG) Monitoring for Suspected Epilepsy
+
+Indication for Procedure:
+
+A 35-year-old male presented with a history of recurrent episodes of unexplained loss of awareness and subtle motor movements. Clinical examination revealed no focal neurological deficits. The episodes were concerning for possible epileptic seizures. Prolonged ambulatory electroencephalogram (EEG) monitoring was recommended to capture and characterize any abnormal brain activity during typical daily activities.
+
+Preprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Postprocedure Diagnosis:
+
+Suspected epilepsy.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system for electrode positioning. Additionally, a portable EEG recording device was attached to the patient's belt or carried in a pouch. The patient was instructed to go about their daily activities while wearing the EEG equipment, including sleep.
+
+Continuous EEG monitoring was performed over 24 to 72 hours, capturing brain activity during wakefulness and sleep. The patient was provided with a diary to document any symptoms or events experienced during the monitoring period, such as episodes of altered consciousness or motor activity.
+
+Impression:
+
+Ambulatory EEG findings revealed intermittent focal epileptiform discharges consistent with partial-onset seizures originating from the left temporal lobe. Prolonged monitoring facilitated the identification and characterization of seizure activity in a real-world setting.
+
+Postoperative Care:
+
+The patient was instructed to return the EEG equipment to the clinic or hospital for data analysis. Results were reviewed by a neurologist specializing in epilepsy, who interpreted the findings and discussed the implications with the patient. Follow-up appointments were scheduled to discuss treatment options and further diagnostic evaluation if needed.

@@ -1,0 +1,30 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to a skilled nursing facility for continued rehabilitation.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Ischemic stroke, left hemiparesis.
+AXIS II: Deferred.
+AXIS III: Hypertension.
+AXIS IV: Moderate.
+AXIS V: 40.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's left-sided weakness persisted, requiring assistance for mobility and activities of daily living.
+
+DISCHARGE FOLLOW-UP:
+Scheduled follow-up appointments with neurology and physical therapy.
+
+DISCHARGE MEDICATIONS:
+
+Aspirin 81 mg p.o. daily.
+Lisinopril 10 mg p.o. daily.
+Atorvastatin 20 mg p.o. daily.
+NEUROLOGICAL STATUS AT DISCHARGE:
+
+Mental status: Alert and oriented x3.
+Cranial nerves: Intact.
+Motor: Left-sided hemiparesis.
+Sensory: Intact.
+Reflexes: Diminished on the left.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 65-year-old female, was admitted following an ischemic stroke resulting in left-sided weakness. During hospitalization, the patient received stroke rehabilitation therapy, demonstrating minimal improvement in motor function.

@@ -1,0 +1,28 @@
+Title of Procedure:
+Transcranial Magnetic Stimulation (TMS) for Evaluation of Cortical Excitability
+
+Indication for Procedure:
+
+A 40-year-old female with a history of treatment-resistant depression presented with persistent symptoms despite multiple medication trials and psychotherapy. Clinical examination suggested possible dysfunction in cortical excitability. Transcranial magnetic stimulation (TMS) was recommended to assess cortical motor thresholds and evaluate the potential response to neuromodulation therapy.
+
+Preprocedure Diagnosis:
+
+Treatment-resistant depression with suspected alterations in cortical excitability.
+
+Postprocedure Diagnosis:
+
+Treatment-resistant depression with alterations in cortical excitability.
+
+Procedure:
+
+The patient underwent transcranial magnetic stimulation (TMS) using a handheld coil positioned over the motor cortex. Single- and paired-pulse TMS techniques were employed to assess cortical motor thresholds and intracortical inhibition/excitation, respectively.
+
+Motor thresholds were determined by delivering magnetic pulses at increasing intensities until a motor evoked potential (MEP) was elicited in the contralateral hand muscles. Paired-pulse TMS involved delivering a conditioning pulse followed by a test pulse to assess the degree of intracortical inhibition or facilitation.
+
+Impression:
+
+Transcranial magnetic stimulation (TMS) revealed alterations in cortical excitability characterized by increased motor thresholds and disrupted intracortical inhibition. These findings suggest dysfunction within cortical circuits implicated in mood regulation and may guide the selection of neuromodulation therapies for treatment-resistant depression.
+
+Postoperative Care:
+
+The patient was monitored post-procedure for any immediate adverse effects, such as headache or discomfort at the stimulation site. Results from the TMS evaluation were reviewed by a psychiatrist specializing in neuromodulation, who interpreted the findings and discussed potential treatment options, including repetitive TMS (rTMS) or electroconvulsive therapy (ECT). Treatment plans were tailored based on individual patient response and preferences.

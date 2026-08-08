@@ -1,0 +1,27 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to home with outpatient physical therapy.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Lumbar spinal stenosis with radiculopathy.
+AXIS II: Deferred.
+AXIS III: None.
+AXIS IV: Mild.
+AXIS V: 55.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's back pain improved with conservative management during hospitalization but still required rehabilitation.
+
+DISCHARGE FOLLOW-UP:
+Scheduled follow-up appointments with orthopedics and physical therapy.
+
+DISCHARGE MEDICATIONS:
+
+Acetaminophen 650 mg p.o. q.6.h. p.r.n. pain.
+Ibuprofen 400 mg p.o. t.i.d. p.r.n. inflammation.
+NEUROLOGICAL STATUS AT DISCHARGE:
+
+Strength: Intact in upper and lower extremities.
+Sensation: Normal.
+Reflexes: Symmetrical.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 60-year-old female, was admitted with severe back pain due to lumbar spinal stenosis. Treatment included pain management and physical therapy, resulting in improved function but ongoing need for rehabilitation

@@ -1,0 +1,15 @@
+EXAM:
+MRI Wrist
+CLINICAL:
+This is a 40-year-old female presenting with chronic wrist pain, aggravated by repetitive use and wrist extension. The patient describes the discomfort as a sharp, stabbing sensation, localized to the dorsal aspect of the right wrist, with occasional radiation to the thumb and index finger. There is no history of trauma or systemic inflammatory conditions. Given the clinical presentation, the patient is being evaluated for possible ligamentous injury or carpal pathology.
+
+FINDINGS:
+MRI imaging of the wrist joint was performed on February 12, 2021. The examination reveals evidence of mild volar subluxation of the scaphoid bone with associated dorsal intercalated segment instability (DISI) pattern. Additionally, mild degenerative changes are noted in the radiocarpal and midcarpal joints. No evidence of acute fracture or significant ligamentous injury is observed.
+
+IMPRESSION:
+The presence of mild volar subluxation of the scaphoid bone with associated DISI pattern is confirmed on MRI. Mild degenerative changes in the wrist joints are also noted. No evidence of acute fracture or significant ligamentous injury is identified. Clinical correlation is recommended for further management, including consideration of immobilization and occupational therapy interventions.
+
+
+
+
+

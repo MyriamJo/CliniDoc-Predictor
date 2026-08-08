@@ -1,0 +1,25 @@
+Title of Procedure: Lumbar Puncture for Evaluation of Suspected Meningitis
+
+Indication for Procedure:
+
+A 25-year-old female presented with complaints of severe headache, neck stiffness, and fever. Clinical examination revealed signs of meningeal irritation, including Kernig's and Brudzinski's signs. Suspected diagnosis of meningitis prompted the recommendation for a lumbar puncture to obtain cerebrospinal fluid (CSF) for analysis and aid in the diagnosis and management of the condition.
+
+Preprocedure Diagnosis:
+
+Suspected meningitis.
+
+Postprocedure Diagnosis:
+
+Meningitis.
+
+Procedure:
+
+The patient was positioned in the lateral decubitus position, with the knees drawn up towards the chest to maximize intervertebral spaces. After sterile preparation and local anesthesia, a spinal needle was inserted into the subarachnoid space between the lumbar vertebrae. CSF was collected and sent for analysis, including cell count, protein, glucose, and culture.
+
+Impression:
+
+Lumbar puncture yielded cloudy CSF with elevated white blood cell count, elevated protein levels, and decreased glucose levels, consistent with a diagnosis of bacterial meningitis. CSF culture confirmed the presence of Streptococcus pneumoniae, guiding appropriate antimicrobial therapy.
+
+Postoperative Care:
+
+The patient was initiated on empiric antibiotic therapy pending CSF culture results. Symptomatic management, including analgesics for headache and antipyretics for fever, was provided. Close monitoring for signs of neurological deterioration and response to treatment was instituted, with plans for repeat lumbar puncture if necessary to assess treatment response.

@@ -1,0 +1,26 @@
+CHIEF COMPLAINT:
+The patient, a 60-year-old female, presents with shortness of breath and swelling in the legs that has been worsening over the past week.
+
+HISTORY OF PRESENT ILLNESS:
+Patient has a history of heart failure and was recently discharged from the hospital for exacerbation of symptoms. Reports difficulty breathing while lying flat and waking up at night gasping for air.
+
+PAST MEDICAL HISTORY:
+Hypertension, diabetes, and coronary artery disease.
+
+FAMILY HISTORY:
+Father had a history of heart disease.
+
+SOCIAL HISTORY:
+Retired nurse. Non-smoker. Lives alone.
+
+PHYSICAL EXAMINATION:
+Jugular venous distension noted. Bilateral lower extremity edema present.
+
+LABORATORY:
+BNP levels elevated.
+
+ASSESSMENT:
+Acute decompensated heart failure.
+
+PLAN:
+Admitted for diuresis and optimization of heart failure medications. Cardiology consult requested.

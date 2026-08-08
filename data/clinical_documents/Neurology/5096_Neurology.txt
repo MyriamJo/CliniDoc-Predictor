@@ -1,0 +1,26 @@
+Title of Procedure:
+Lumbar Puncture for Evaluation of Central Nervous System Disorders
+
+Indication for Procedure:
+
+A 60-year-old male presented with progressive cognitive decline, gait disturbances, and urinary incontinence. Clinical evaluation raised suspicion for central nervous system (CNS) disorders such as normal pressure hydrocephalus (NPH) or neurodegenerative diseases. Lumbar puncture was recommended to assess cerebrospinal fluid (CSF) biomarkers and aid in the diagnosis of underlying CNS pathology.
+
+Preprocedure Diagnosis:
+
+Suspected central nervous system disorders (e.g., NPH, neurodegenerative diseases).
+
+Postprocedure Diagnosis:
+
+Central nervous system disorders.
+
+Procedure:
+
+The patient was positioned in a lateral decubitus position, and the lumbar region was prepped and draped in a sterile manner. After local anesthesia, a spinal needle was inserted into the subarachnoid space, and CSF was collected and sent for analysis. CSF samples were evaluated for cell count, protein levels, glucose levels, and biomarkers such as amyloid-beta and tau protein.
+
+Impression:
+
+Lumbar puncture revealed elevated protein levels and altered CSF biomarker profiles consistent with neurodegenerative diseases, particularly Alzheimer's disease. The presence of abnormal protein aggregates and tau protein phosphorylation patterns suggested underlying neurodegenerative pathology contributing to the patient's clinical symptoms.
+
+Postoperative Care:
+
+The patient was referred to a neurology specialist for further evaluation and management of the neurodegenerative disorder. Treatment options, including symptomatic management and disease-modifying therapies, were discussed based on the lumbar puncture findings. Close monitoring of cognitive function and disease progression was instituted, with regular follow-up appointments scheduled.

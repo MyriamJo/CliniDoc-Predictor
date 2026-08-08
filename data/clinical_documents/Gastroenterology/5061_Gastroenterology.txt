@@ -1,0 +1,33 @@
+Medical Record:
+
+Procedure: Gallbladder Ultrasound (Sonography)
+
+Reason for Procedure:
+
+Episodic right upper quadrant abdominal pain and suspicion of gallbladder pathology.
+
+Ultrasound Findings:
+
+The gallbladder ultrasound was performed to evaluate the patient's symptoms. The examination revealed multiple findings:
+
+1. Gallstones: Multiple echogenic structures were identified within the gallbladder lumen, consistent with gallstones. The size and number of gallstones varied, with some measuring up to 1 centimeter in diameter.
+
+2. Gallbladder Wall Thickness: The gallbladder wall appeared thickened, measuring approximately 5 millimeters, which may indicate inflammation or chronic cholecystitis.
+
+3. Sonographic Murphy's Sign: The patient demonstrated tenderness upon sonographic probe compression over the gallbladder, indicative of a positive Murphy's sign, further supporting the diagnosis of acute cholecystitis.
+
+Impression:
+
+The gallbladder ultrasound findings are consistent with cholelithiasis (gallstones) and features suggestive of acute cholecystitis, including gallbladder wall thickening and a positive Murphy's sign. These findings correlate with the patient's symptoms of episodic right upper quadrant abdominal pain.
+
+Recommendations:
+
+1. Clinical Correlation: Further evaluation by a healthcare provider to assess the severity of symptoms and determine the appropriate management strategy.
+
+2. Consideration for Cholecystectomy: Given the presence of gallstones and signs of acute cholecystitis, surgical consultation may be warranted to discuss the possibility of cholecystectomy (surgical removal of the gallbladder) to alleviate symptoms and prevent potential complications such as gallstone-related pancreatitis or cholangitis.
+
+3. Symptomatic Management: In the interim, symptomatic management with pain control and dietary modifications may be considered to alleviate discomfort and prevent exacerbations of symptoms.
+
+Follow-up:
+
+The patient is advised to follow up with their healthcare provider for further evaluation and management based on the gallbladder ultrasound findings. Urgent consultation may be warranted if symptoms worsen or if signs of complications such as jaundice or fever develop.

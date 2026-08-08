@@ -1,0 +1,11 @@
+EXAM:
+MRI Lumbar Spine
+CLINICAL:
+This is a 55-year-old female presenting with complaints of lower back pain radiating down her left leg. The patient reports experiencing discomfort for the past six months, which has worsened over time, particularly during activities involving bending or lifting. There is no history of trauma or previous spinal surgeries. Given the clinical presentation, the patient is being evaluated for possible lumbar disc herniation.
+
+FINDINGS:
+The MRI examination of the lumbar spine was performed on March 15, 2020. The imaging reveals evidence of disc desiccation at multiple lumbar levels, most notably at the L4-L5 and L5-S1 levels. Additionally, there is posterior disc bulging at these levels, resulting in mild indentation on the thecal sac. Despite these findings, no significant central canal or foraminal stenosis is identified. There are no signs of spondylolisthesis or pars defects. The facet joints appear normal without evidence of hypertrophy or synovial cysts.
+
+IMPRESSION:
+Mild lumbar degenerative disc disease with disc desiccation and posterior disc bulging at L4-L5 and L5-S1 levels is noted. Although there is mild indentation on the thecal sac, no significant spinal canal or foraminal stenosis is identified. Clinical correlation is recommended for further management, including consideration of conservative treatment modalities such as physical therapy and analgesics.
+

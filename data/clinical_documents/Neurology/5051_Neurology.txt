@@ -1,0 +1,29 @@
+TITLE OF OPERATION:
+
+Electromyography-Guided Nerve Conduction Study for Evaluation of Lumbar Radiculopathy
+
+INDICATION FOR PROCEDURE:
+
+A 55-year-old female presented with radiating pain and numbness in the right lower limb, suggestive of lumbar radiculopathy. Clinical examination revealed weakness in specific muscle groups innervated by lumbar nerve roots. Electromyography (EMG) and nerve conduction studies (NCS) were recommended to localize and characterize the nerve dysfunction.
+
+PREPROCEDURE DIAGNOSIS:
+
+Right lumbar radiculopathy.
+
+POSTPROCEDURE DIAGNOSIS:
+
+Right lumbar radiculopathy.
+
+PROCEDURE:
+
+The patient was positioned comfortably on the examination table in a prone position. Following skin preparation, surface electrodes were placed over target muscles, including the gluteus maximus, quadriceps, and tibialis anterior, corresponding to the lumbar nerve roots under investigation. Needle electrodes were inserted into the muscles for EMG recording.
+
+Nerve conduction studies were performed using stimulating electrodes placed at specific anatomical landmarks along the course of the lumbar nerve roots. Responses were recorded from surface electrodes overlying distal muscles, allowing assessment of nerve conduction velocity and amplitude.
+
+INTERPRETATION:
+
+EMG findings revealed denervation potentials and fibrillation potentials in the affected muscles, consistent with lumbar radiculopathy. NCS demonstrated reduced conduction velocity and decreased compound muscle action potentials in the right lower limb, confirming nerve dysfunction at the level of the lumbar spine.
+
+POSTPROCEDURE MANAGEMENT:
+
+The patient was counseled on the findings and potential treatment options, including physical therapy, medications, and interventional procedures. Close follow-up was recommended to monitor symptom progression and response to treatment interventions.

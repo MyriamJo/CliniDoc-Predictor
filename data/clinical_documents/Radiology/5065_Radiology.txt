@@ -1,0 +1,13 @@
+EXAM:
+MRI Wrist without Contrast.
+REASON FOR EXAM:
+Assessment of chronic wrist pain.
+
+TECHNIQUE:
+Multiplanar T1-weighted, T2-weighted, and proton density sequences of the wrist are obtained.
+
+FINDINGS:
+Mild degenerative changes noted in the carpal bones, consistent with early osteoarthritis. No evidence of ligamentous injury or tendon abnormalities. No focal masses or ganglion cysts observed. Joint spaces are preserved.
+
+IMPRESSION:
+Degenerative changes of the wrist without acute findings. Clinical correlation recommended for management of chronic wrist pain.

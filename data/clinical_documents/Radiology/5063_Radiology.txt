@@ -1,0 +1,13 @@
+EXAM:
+X-ray Hand.
+REASON FOR EXAM:
+Assessment of hand pain following trauma.
+
+TECHNIQUE:
+Posteroanterior and lateral views of the hand are obtained.
+
+FINDINGS:
+No evidence of acute fractures or dislocations identified. Soft tissue swelling noted around the metacarpophalangeal joints. No foreign bodies appreciated. Bony structures appear intact.
+
+IMPRESSION:
+Negative X-ray findings for acute fractures or dislocations. Soft tissue swelling noted, likely secondary to trauma. Clinical correlation recommended for further evaluation of hand pain.

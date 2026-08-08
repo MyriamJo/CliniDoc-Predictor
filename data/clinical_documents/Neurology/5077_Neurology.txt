@@ -1,0 +1,28 @@
+Title of Procedure:
+Sleep Electroencephalogram (EEG) Monitoring for Evaluation of Suspected Sleep Disorders
+
+Indication for Procedure:
+
+A 45-year-old male presented with complaints of excessive daytime sleepiness, loud snoring, and witnessed apneas during sleep. Clinical suspicion for obstructive sleep apnea syndrome (OSAS) was raised. Sleep EEG monitoring was recommended to evaluate sleep architecture, identify abnormal brain activity, and aid in the diagnosis of sleep disorders.
+
+Preprocedure Diagnosis:
+
+Suspected obstructive sleep apnea syndrome (OSAS) or other sleep disorders.
+
+Postprocedure Diagnosis:
+
+Suspected obstructive sleep apnea syndrome (OSAS) or other sleep disorders.
+
+Procedure:
+
+The patient underwent placement of scalp electrodes according to the international 10-20 system, with additional electrodes for sleep monitoring. The patient was admitted to the sleep laboratory in the evening, and EEG monitoring was initiated before bedtime.
+
+Continuous EEG monitoring was performed throughout the night, capturing brain activity during various sleep stages. Concurrent monitoring of respiratory parameters, including airflow, respiratory effort, and oxygen saturation, was conducted to correlate EEG findings with potential sleep-disordered breathing events.
+
+Impression:
+
+Sleep EEG monitoring revealed disrupted sleep architecture with frequent arousals and abnormal brain activity suggestive of sleep-disordered breathing, consistent with obstructive sleep apnea syndrome (OSAS). EEG findings during rapid eye movement (REM) sleep were also indicative of potential REM sleep behavior disorder.
+
+Postoperative Care:
+
+The patient's sleep EEG recordings were reviewed by a sleep medicine specialist, who interpreted the findings and discussed the implications with the patient. Treatment options, including continuous positive airway pressure (CPAP) therapy for OSAS or pharmacological interventions for other sleep disorders, were discussed during follow-up appointments. Lifestyle modifications and sleep hygiene measures were also recommended to optimize sleep quality and daytime functioning.

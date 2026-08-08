@@ -1,0 +1,24 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Thomas Harris, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Rebecca Thompson, M.D.
+
+ADMITTING DIAGNOSES:
+
+Left hip fracture.
+Osteoporosis.
+PROCEDURES DURING HOSPITALIZATION:
+Left hip hemiarthroplasty.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Mary Johnson, an 80-year-old female, presented with left hip pain and inability to bear weight after a fall. Imaging revealed a left hip fracture requiring surgical intervention.
+
+HOSPITAL COURSE:
+Ms. Johnson underwent successful left hip hemiarthroplasty and showed improvement in mobility. She was discharged to a rehabilitation facility for further therapy.

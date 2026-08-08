@@ -1,0 +1,20 @@
+DISCHARGE DISPOSITION:
+The patient was discharged to a psychiatric residential facility for continued stabilization.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Borderline personality disorder with self-harm behaviors.
+AXIS II: Deferred.
+AXIS III: None.
+AXIS IV: Severe.
+AXIS V: 25.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's self-harm behaviors were managed during hospitalization, but ongoing support and supervision were deemed necessary.
+
+DISCHARGE FOLLOW-UP:
+Scheduled follow-up appointments with psychiatry and therapy at the residential facility.
+
+DISCHARGE MEDICATIONS:
+
+Sertraline 50 mg p.o. daily.
+Quetiapine 100 mg p.o. nightly.

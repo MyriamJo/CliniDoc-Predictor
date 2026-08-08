@@ -1,0 +1,8 @@
+DIAGNOSES:
+Chronic obstructive pulmonary disease exacerbation, pneumonia.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 08/25/2024 with exacerbation of chronic obstructive pulmonary disease and pneumonia. Treatment included bronchodilator therapy, antibiotic administration, oxygen supplementation, and chest physiotherapy. Despite initial improvement in respiratory symptoms, the patient's oxygenation status remained compromised, necessitating transfer to the intensive care unit for advanced respiratory support.
+
+RECOMMENDATIONS:
+Discharged from respiratory therapy services today, as the patient requires continued intensive care for respiratory support.

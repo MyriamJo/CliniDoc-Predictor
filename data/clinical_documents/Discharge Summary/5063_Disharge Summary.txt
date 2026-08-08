@@ -1,0 +1,28 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+AB CD, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+X Y, M.D.
+
+ADMITTING DIAGNOSES:
+
+Ewing sarcoma.
+Anemia.
+Hypertension.
+Hyperkalemia.
+PROCEDURES DURING HOSPITALIZATION:
+Cycle seven Ifosfamide, mesna, and VP-16 chemotherapy.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. XXX, a 37-year-old female with a history of Ewing sarcoma, presented with left frontal orbital swelling. Biopsy confirmed Ewing sarcoma with genetic analysis indicating a T1122 translocation. She underwent chemotherapy cycles and radiation treatment. Admitted for cycle seven of chemotherapy and managed for hemorrhagic cystitis.
+
+HOSPITAL COURSE:
+
+Tolerated chemotherapy well.
+Followed for hemorrhagic cystitis with minimal blood in urine.

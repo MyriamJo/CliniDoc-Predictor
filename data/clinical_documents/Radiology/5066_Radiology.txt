@@ -1,0 +1,13 @@
+EXAM:
+Ultrasound Renal Arteries.
+REASON FOR EXAM:
+Evaluation of hypertension and renal artery stenosis.
+
+TECHNIQUE:
+Color Doppler ultrasound imaging of the renal arteries is performed.
+
+FINDINGS:
+Normal flow velocities and waveforms observed bilaterally in the main renal arteries. No evidence of focal stenosis or significant flow disturbances. Renal parenchyma appears symmetrically perfused. No evidence of renal artery thrombosis or aneurysm.
+
+IMPRESSION:
+Normal ultrasound findings of the renal arteries. No evidence of renal artery stenosis or hemodynamically significant abnormalities detected. Clinical correlation recommended for further management of hypertension.

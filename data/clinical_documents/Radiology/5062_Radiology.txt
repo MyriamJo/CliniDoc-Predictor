@@ -1,0 +1,13 @@
+EXAM:
+PET Scan.
+REASON FOR EXAM:
+Staging of lung cancer.
+
+TECHNIQUE:
+Combined PET imaging performed following intravenous administration of FDG radiotracer.
+
+FINDINGS:
+Increased FDG uptake noted in the right upper lobe lung mass, with standardized uptake value (SUV) max of 12.4. No evidence of distant metastases observed. Physiologic uptake seen in the brain, heart, liver, and bladder.
+
+IMPRESSION:
+PET findings consistent with localized lung cancer. No evidence of distant metastases detected. Clinical correlation recommended for further management and treatment planning.

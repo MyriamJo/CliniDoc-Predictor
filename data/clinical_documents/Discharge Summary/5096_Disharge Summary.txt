@@ -1,0 +1,8 @@
+DIAGNOSES:
+Community-acquired pneumonia, chronic obstructive pulmonary disease exacerbation.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 03/28/2024 with community-acquired pneumonia and exacerbation of chronic obstructive pulmonary disease. Treatment included antibiotic therapy, bronchodilator therapy, oxygen supplementation, and chest physiotherapy. Despite initial improvement in respiratory symptoms, the patient's oxygenation status remained compromised, necessitating transfer to the intensive care unit for advanced respiratory support.
+
+RECOMMENDATIONS:
+Discharged from respiratory therapy services today, as the patient requires continued intensive care for respiratory support.

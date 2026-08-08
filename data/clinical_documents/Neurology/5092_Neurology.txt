@@ -1,0 +1,26 @@
+Title of Procedure: 
+Lumbar Puncture for Evaluation of Possible Subarachnoid Hemorrhage
+
+Indication for Procedure:
+
+A 45-year-old male presented to the emergency department with a sudden-onset severe headache described as the "worst headache of his life." The patient had no history of headaches or neurological conditions. Given the clinical suspicion for subarachnoid hemorrhage (SAH), a lumbar puncture was recommended to assess for the presence of blood in the cerebrospinal fluid (CSF).
+
+Preprocedure Diagnosis:
+
+Suspected subarachnoid hemorrhage (SAH).
+
+Postprocedure Diagnosis:
+
+Subarachnoid hemorrhage (SAH).
+
+Procedure:
+
+The patient was placed in a lateral decubitus position, and the lower back was prepped and draped in a sterile fashion. Local anesthesia was administered, and a spinal needle was inserted into the subarachnoid space between the lumbar vertebrae. CSF was collected and sent for analysis, including visual inspection for blood and measurement of red blood cell count, protein levels, and xanthochromia.
+
+Impression:
+
+Lumbar puncture revealed xanthochromia in the cerebrospinal fluid, consistent with a diagnosis of subarachnoid hemorrhage. The presence of bilirubin breakdown products in the CSF indicated the presence of blood in the subarachnoid space, confirming the clinical suspicion.
+
+Postoperative Care:
+
+The patient was admitted to the neurology service for further evaluation and management of subarachnoid hemorrhage. Treatment options, including neurosurgical intervention or endovascular coiling, were discussed based on the extent and location of the hemorrhage. Close monitoring for complications such as vasospasm and rebleeding was initiated.

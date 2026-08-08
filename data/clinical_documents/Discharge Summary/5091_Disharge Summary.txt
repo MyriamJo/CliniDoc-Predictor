@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute pancreatitis, gallstone pancreatitis.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 10/09/2024 with acute pancreatitis secondary to gallstones. Treatment included pain management, bowel rest, intravenous fluid hydration, and nutritional support. Despite initial improvement in symptoms, the patient developed complications of pancreatitis, including pancreatic necrosis, necessitating transfer to the surgical ward for further evaluation and management.
+
+RECOMMENDATIONS:
+Discharged from gastroenterology services today, as the patient requires continued evaluation and management on the surgical ward.

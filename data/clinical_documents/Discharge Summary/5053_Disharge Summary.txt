@@ -1,0 +1,34 @@
+DISCHARGE DISPOSITION:
+The patient was discharged upon completion of treatment and deemed medically stable for discharge.
+
+DISCHARGE DIAGNOSES:
+
+AXIS I: Major depressive disorder.
+AXIS II: Deferred.
+AXIS III: Diabetes mellitus type 2.
+AXIS IV: Moderate.
+AXIS V: 65.
+CONDITION OF PATIENT ON DISCHARGE:
+The patient's mood has improved, and symptoms of depression have significantly decreased. Diabetes management initiated during hospitalization.
+
+DISCHARGE FOLLOW-UP:
+Scheduled follow-up with primary care physician in two weeks for medication management and further evaluation.
+
+DISCHARGE MEDICATIONS:
+
+Fluoxetine 20 mg p.o. daily.
+Metformin 1000 mg p.o. b.i.d.
+Lisinopril 10 mg p.o. daily.
+MENTAL STATUS AT DISCHARGE:
+
+Attitude: Cooperative.
+Appearance: Improved.
+Psychomotor behavior: Normal.
+Affect: Euthymic.
+Mood: Stable.
+Speech: Normal rate and volume.
+Thoughts: Logical and organized.
+Suicidal or homicidal ideation: Absent.
+Insight: Improved.
+HISTORY AND HOSPITAL COURSE:
+The patient, a 55-year-old male, was admitted for exacerbation of depression with suicidal ideation. Treatment included psychotherapy and pharmacotherapy. Upon discharge, the patient's condition had significantly improved, and he was deemed safe for discharge with appropriate follow-up care.

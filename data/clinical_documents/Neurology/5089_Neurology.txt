@@ -1,0 +1,28 @@
+Title of Procedure:
+Electrocorticography (ECoG) for Localization of Seizure Focus
+
+Indication for Procedure:
+
+A 25-year-old female with medically refractory epilepsy was being evaluated for surgical intervention. Non-invasive diagnostic tests, including scalp electroencephalography (EEG) and neuroimaging, failed to adequately localize the seizure focus. Electrocorticography (ECoG) was recommended to precisely localize the epileptogenic zone and guide surgical planning.
+
+Preprocedure Diagnosis:
+
+Medically refractory epilepsy with suspected focal seizure onset.
+
+Postprocedure Diagnosis:
+
+Medically refractory epilepsy with localized epileptogenic zone.
+
+Procedure:
+
+The patient underwent craniotomy under general anesthesia for placement of subdural electrode arrays directly onto the exposed brain surface overlying the suspected seizure focus. Subdural electrodes were strategically positioned based on preoperative neuroimaging and seizure semiology.
+
+Continuous electrocorticography (ECoG) monitoring was initiated to record electrical activity from the cortical surface. Stimulus-induced seizures were elicited intraoperatively to localize the seizure onset zone, motor mapping, and functional cortex.
+
+Impression:
+
+Electrocorticography (ECoG) revealed frequent interictal spikes and epileptiform discharges localized to the left mesial temporal lobe, consistent with the suspected seizure focus. Mapping of functional cortex and identification of eloquent areas guided the surgical resection to minimize the risk of postoperative neurological deficits.
+
+Postoperative Care:
+
+The patient was monitored post-procedure in the neurosurgical intensive care unit for any immediate complications, such as intracranial hemorrhage or seizures. Results from the ECoG evaluation were reviewed by a multidisciplinary team, including epileptologists, neurosurgeons, and neurophysiologists, to guide surgical planning. Surgical resection of the epileptogenic zone was considered based on the findings, with subsequent monitoring to assess seizure control and neurological outcomes. Close follow-up appointments were scheduled to optimize postoperative management and address any complications.

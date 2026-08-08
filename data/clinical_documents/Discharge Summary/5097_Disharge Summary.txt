@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute myocardial infarction, heart failure.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 06/10/2024 with acute myocardial infarction complicated by heart failure. Treatment included coronary angiography, percutaneous coronary intervention, initiation of heart failure medications, and cardiac rehabilitation therapy. Despite initial improvement in cardiac function, the patient experienced recurrent episodes of heart failure exacerbation, necessitating transfer to the coronary care unit for intensive cardiac monitoring and management.
+
+RECOMMENDATIONS:
+Discharged from cardiac rehabilitation services today, as the patient requires continued intensive care for management of heart failure exacerbation.

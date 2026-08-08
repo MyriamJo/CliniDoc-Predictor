@@ -1,0 +1,29 @@
+DATE OF ADMISSION:
+MM/DD/YYYY.
+
+DATE OF DISCHARGE:
+MM/DD/YYYY.
+
+REFERRING PHYSICIAN:
+Dr. Andrew Johnson, M.D.
+
+ATTENDING PHYSICIAN AT DISCHARGE:
+Dr. Emily Davis, M.D.
+
+ADMITTING DIAGNOSES:
+
+Diabetic ketoacidosis.
+Type 2 diabetes mellitus.
+PROCEDURES DURING HOSPITALIZATION:
+None.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Robert Smith, a 50-year-old male with known diabetes mellitus, presented with symptoms of polyuria, polydipsia, and altered mental status. Laboratory investigations confirmed diabetic ketoacidosis.
+
+HOSPITAL COURSE:
+Mr. Smith was managed with intravenous fluids, insulin therapy, and electrolyte replacement. His metabolic derangements resolved, and he was discharged home with insulin therapy and diabetic education.
+
+
+
+
+

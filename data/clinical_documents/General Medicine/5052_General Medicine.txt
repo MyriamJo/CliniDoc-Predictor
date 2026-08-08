@@ -1,0 +1,24 @@
+CHIEF COMPLAINT:
+Patient, a 28-year-old male, presents with a headache that started suddenly this morning. Describes the pain as pounding and located in the frontal region.
+
+HISTORY OF PRESENT ILLNESS:
+No significant past medical history. Patient denies fever, neck stiffness, or visual changes. Reports photophobia and nausea.
+
+PAST MEDICAL HISTORY:
+No known medical conditions. No history of migraines.
+
+FAMILY HISTORY:
+Mother has a history of migraines.
+
+SOCIAL HISTORY:
+Works as an IT consultant. Denies smoking or illicit drug use.
+
+PHYSICAL EXAMINATION:
+Vital signs stable. Neurological exam within normal limits.
+
+DIAGNOSES:
+Acute migraine headache.
+
+PLAN:
+Started on ibuprofen and sumatriptan. Advised on lifestyle modifications and migraine triggers.
+

@@ -1,0 +1,8 @@
+DIAGNOSES:
+Acute myocardial infarction, hypertension.
+
+DISCHARGE SUMMARY:
+The patient was admitted on 07/20/2024 with acute myocardial infarction. Following initial stabilization and treatment, the patient underwent cardiac rehabilitation therapy, focusing on cardiovascular conditioning exercises, risk factor modification, and education on heart-healthy lifestyle choices. Despite progress, the patient experienced persistent hypertension, necessitating further monitoring and adjustment of antihypertensive medications.
+
+RECOMMENDATIONS:
+Discharged from cardiac rehabilitation services today, with a recommendation for close outpatient follow-up to manage hypertension
